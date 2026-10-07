@@ -1,0 +1,73 @@
+report_year,stream,ghg_status,sector_name,financing_type,projects,allocation_eur_m,share_all_allocation
+2022,CAB,below_threshold,Construction,Investment loan,6,88.34115014,0.00706690972351
+2022,CAB,below_threshold,Electricity and energy,Investment loan,2,80.37347197,0.00642952994926
+2022,CAB,below_threshold,Manufacturing,Equity/Quasi-equity,1,20,0.00159991345195
+2022,CAB,below_threshold,Professional/RDI,Equity/Quasi-equity,2,19,0.00151991777936
+2022,CAB,below_threshold,Transport and storage,Investment loan,9,189.408295,0.0151518439541
+2022,CAB,clarification_nondisclosure,Electricity and energy,Investment loan,1,285,0.0227987666904
+2022,CAB,deferred_intermediated_framework,Construction,Framework loan,4,498.351237,0.0398659423937
+2022,CAB,deferred_intermediated_framework,Electricity and energy,Equity/Quasi-equity,2,14.08038162,0.00112636959812
+2022,CAB,deferred_intermediated_framework,Electricity and energy,Framework loan,7,766.68714879,0.0613316541395
+2022,CAB,deferred_intermediated_framework,Electricity and energy,Multiple Beneficiary Intermediated Loan,1,14.784,0.00118265602368
+2022,CAB,deferred_intermediated_framework,Transport and storage,Equity/Quasi-equity,1,23.5716362,0.00188562889205
+2022,CAB,deferred_intermediated_framework,Transport and storage,Framework loan,4,134.07380802,0.0107253244503
+2022,CAB,not_applicable,Construction,Investment loan,2,120.5,0.00963947854803
+2022,CAB,not_applicable,Professional/RDI,Investment loan,3,1075,0.0859953480426
+2022,CAB,numeric,Construction,Investment loan,8,340.82947768,0.0272648833081
+2022,CAB,numeric,Electricity and energy,Equity/Quasi-equity,1,21.87248,0.00174970374898
+2022,CAB,numeric,Electricity and energy,Investment loan,40,5551.37616353,0.444086070045
+2022,CAB,numeric,Information and communication,Investment loan,1,14.77673971,0.0011820752319
+2022,CAB,numeric,Manufacturing,Investment loan,4,185.13908206,0.0148103253935
+2022,CAB,numeric,Professional/RDI,Equity/Quasi-equity,1,19.08452822,0.00152667967117
+2022,CAB,numeric,Transport and storage,Equity/Quasi-equity,1,20,0.00159991345195
+2022,CAB,numeric,Transport and storage,Investment loan,33,2995.19199324,0.239602398059
+2022,CAB,numeric,Water and waste,Investment loan,4,23.2346,0.00185866745454
+2023,CAB,below_threshold,Construction,Investment loan,7,94.1781749266,0.00594634413957
+2023,CAB,below_threshold,Electricity and energy,Investment loan,1,500,0.0315696505278
+2023,CAB,below_threshold,Manufacturing,Equity/Quasi-equity,1,29,0.00183103973061
+2023,CAB,below_threshold,Professional/RDI,Equity/Quasi-equity,1,15,0.000947089515835
+2023,CAB,below_threshold,Professional/RDI,Investment loan,3,405,0.0255714169276
+2023,CAB,below_threshold,Transport and storage,Investment loan,7,351.926535763,0.022220395491
+2023,CAB,deferred_intermediated_framework,Construction,Framework loan,3,170.044516,0.0107364918886
+2023,CAB,deferred_intermediated_framework,Construction,Multiple Beneficiary Intermediated Loan,1,400,0.0252557204223
+2023,CAB,deferred_intermediated_framework,Electricity and energy,Equity/Quasi-equity,1,3.28682352,0.000207527739746
+2023,CAB,deferred_intermediated_framework,Electricity and energy,Framework loan,9,1213.65355247,0.0766292370266
+2023,CAB,deferred_intermediated_framework,Electricity and energy,Multiple Beneficiary Intermediated Loan,1,10.905,0.000688534078012
+2023,CAB,deferred_intermediated_framework,Transport and storage,Framework loan,4,1011.53841041,0.0638678282243
+2023,CAB,not_applicable,Construction,Investment loan,2,14,0.00088395021478
+2023,CAB,not_applicable,Transport and storage,Investment loan,1,200,0.0126278602111
+2023,CAB,numeric,Construction,Investment loan,5,270.41,0.0170734983985
+2023,CAB,numeric,Electricity and energy,Equity/Quasi-equity,2,20.3811545,0.00128685184984
+2023,CAB,numeric,Electricity and energy,Investment loan,52,5527.94226393,0.349030410821
+2023,CAB,numeric,Information and communication,Investment loan,1,14.5284852861,0.000917318406363
+2023,CAB,numeric,Manufacturing,Investment loan,9,695.956041435,0.0439421780217
+2023,CAB,numeric,Transport and storage,Equity/Quasi-equity,4,62.015,0.00391558375497
+2023,CAB,numeric,Transport and storage,Investment loan,40,4724.78928036,0.298319892797
+2023,CAB,numeric,Water and waste,Investment loan,3,103.4408,0.00653117981264
+2024,CAB,below_threshold,Construction,Investment loan,8,439.62813364,0.0263962743574
+2024,CAB,below_threshold,Electricity and energy,Investment loan,3,249.86630797,0.0150025421787
+2024,CAB,below_threshold,Transport and storage,Investment loan,12,660.61570842,0.0396648716266
+2024,CAB,deferred_intermediated_framework,Construction,Framework loan,3,179.73483781,0.0107916889921
+2024,CAB,deferred_intermediated_framework,Construction,Multiple Beneficiary Intermediated Loan,1,150,0.00900634161156
+2024,CAB,deferred_intermediated_framework,Electricity and energy,Equity/Quasi-equity,1,2.49340722,0.000149709848
+2024,CAB,deferred_intermediated_framework,Electricity and energy,Framework loan,14,2311.01081474,0.138758352437
+2024,CAB,deferred_intermediated_framework,Electricity and energy,Framework/Investment loan,1,155,0.00930655299861
+2024,CAB,deferred_intermediated_framework,Electricity and energy,Investment loan,1,148.7655,0.0089322194201
+2024,CAB,deferred_intermediated_framework,Electricity and energy,Multiple Beneficiary Intermediated Loan,1,49.311,0.00296074474138
+2024,CAB,deferred_intermediated_framework,Transport and storage,Framework loan,5,260.2,0.0156230005822
+2024,CAB,deferred_intermediated_framework,Transport and storage,Investment loan,1,152.5335,0.00915845872138
+2024,CAB,deferred_intermediated_framework,Transport and storage,Multiple Beneficiary Intermediated Loan,2,32.5,0.00195137401584
+2024,CAB,numeric,Construction,Investment loan,5,128.64954684,0.00772441178009
+2024,CAB,numeric,Electricity and energy,Equity/Quasi-equity,1,3.6240361,0.000217595380862
+2024,CAB,numeric,Electricity and energy,Investment loan,51,5381.08227948,0.323092434993
+2024,CAB,numeric,Information and communication,Investment loan,2,153.53869503,0.00921881292022
+2024,CAB,numeric,Manufacturing,Equity/Quasi-equity,2,35,0.00210147970936
+2024,CAB,numeric,Manufacturing,Investment loan,10,573.16181822,0.0344139408906
+2024,CAB,numeric,Professional/RDI,Investment loan,1,250,0.0150105693526
+2024,CAB,numeric,Transport and storage,Equity/Quasi-equity,2,7.73251049,0.00046427753992
+2024,CAB,numeric,Transport and storage,Investment loan,34,4315.96071244,0.259140110389
+2024,CAB,numeric,Water and waste,Investment loan,1,4.69,0.000281598281055
+2024,CAB,withheld_external_review,Electricity and energy,Investment loan,1,400,0.0240169109642
+2024,CAB,withheld_external_review,Transport and storage,Investment loan,2,609.83240223,0.0366157262686
+2024,EuGBS,numeric,Electricity and energy,Investment loan,7,1987.1,0.708590567987
+2024,EuGBS,numeric,Transport and storage,Investment loan,7,817.19925231,0.291409432013

@@ -1,0 +1,20 @@
+specification,intensity_2023,intensity_2024,signed_change,magnitude_change_pct,n_2023,n_2024,cost_denominator
+All observed CAB: eligible cost,-317.383234217,-195.77720065,121.606033567,-38.3152039732,116,109,eligible
+All observed CAB: whole-project cost,-306.645393185,-191.883606611,114.761786573,-37.4249178771,116,109,whole
+100% eligible in each year,-313.910449869,-199.559704061,114.350745808,-36.4278238763,91,88,eligible
+Renewable-generation activities,-841.263648607,-606.555794809,234.707853798,-27.8994408218,32,28,eligible
+Excluding manufacturing,-297.470127141,-199.752208617,97.7179185238,-32.8496576994,107,97,eligible
+Investment loans,-317.042078641,-196.431994365,120.610084276,-38.0422954559,110,104,eligible
+Numeric continuing CAB projects,-435.506625706,-252.460861177,183.045764529,-42.0305349505,48,48,eligible
+Continuing and 100% eligible in both,-459.500212419,-248.134236621,211.365975798,-45.9991029569,40,40,eligible
+Excluding union of annual top-five contributions,-115.778394158,-68.7651320412,47.0132621165,-40.6062482198,111,102,eligible
+Annual 1st/99th percentile intensity winsorization,-307.542487077,-194.870330528,112.672156549,-36.6362897106,116,109,eligible
+CAB excluding IDs migrating to EuGBS,-348.547599884,-195.77720065,152.770399234,-43.8305698518,109,109,eligible
+2024 CAB+EuGBS project boundary; whole cost,-306.645393185,-158.538670625,148.10672256,-48.2990209054,116,122,whole
+Numeric continuing CAB: fixed 2023 weights; eligible cost,-435.506625706,-458.670742908,-23.1641172027,5.31888973334,48,48,eligible
+Numeric continuing CAB: fixed 2023 weights; whole cost,-431.667378293,-430.602325869,1.0650524238,-0.246729884481,48,48,whole
+Numeric continuing CAB: annual weights; whole cost,-431.667378293,-249.604426599,182.062951694,-42.1766760357,48,48,whole
+Numeric continuing CAB: fixed 2024 weights; whole cost,-252.487303589,-249.604426599,2.88287699089,-1.1417908742,48,48,whole
+Numeric continuing combined boundary: annual weights; whole cost,-352.533976804,-200.547067076,151.986909728,-43.1126982727,55,55,whole
+Numeric continuing combined boundary: fixed 2023 weights; whole cost,-352.533976804,-351.683866283,0.850110520559,-0.241142861822,55,55,whole
+Numeric continuing combined boundary: fixed 2024 weights; whole cost,-202.771732896,-200.547067076,2.22466581981,-1.09712817859,55,55,whole

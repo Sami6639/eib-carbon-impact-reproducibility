@@ -1,0 +1,18 @@
+{
+  "unique_keys": true,
+  "source_hashes_match": true,
+  "positive_financial_denominators": true,
+  "merged_missingness_preserved": true,
+  "expected_counts": [
+    138,
+    158,
+    165
+  ],
+  "numeric_counts": [
+    93,
+    116,
+    109
+  ],
+  "all_exact_decompositions": true,
+  "unresolved_2022_absolute_residual": -0.015743829181452895
+}

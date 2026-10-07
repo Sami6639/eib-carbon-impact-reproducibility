@@ -1,0 +1,3 @@
+period,shared_ids,numeric_pairs,matched_allocation_before,matched_allocation_after,fraction_allocation_before,fraction_allocation_after,intensity_before,intensity_after,fixed_old_weights_after,fixed_new_weights_before
+2022_2023,67,47,3069.63874055,3252.73347877,0.245557815682,0.20537531837,-458.650549624,-568.312722565,-472.459636861,-557.397004392
+2023_2024,64,48,4557.05621954,4340.75988763,0.287729344573,0.260629109345,-435.506625706,-252.460861177,-458.670742908,-255.01663974

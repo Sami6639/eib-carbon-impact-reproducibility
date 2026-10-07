@@ -1,0 +1,11 @@
+specification,intensity_2023,intensity_2024,signed_change,magnitude_change_pct,n_2023,n_2024,cost_denominator
+All observed CAB: eligible cost,-317.383234217,-195.77720065,121.606033567,-38.3152039732,116,109,eligible
+All observed CAB: whole-project cost,-306.645393185,-191.883606611,114.761786573,-37.4249178771,116,109,whole
+100% eligible in each year,-313.910449869,-199.559704061,114.350745808,-36.4278238763,91,88,eligible
+Renewable-generation activities,-841.263648607,-606.555794809,234.707853798,-27.8994408218,32,28,eligible
+Numeric continuing CAB: annual weights; whole cost,-431.667378293,-249.604426599,182.062951694,-42.1766760357,48,48,whole
+Numeric continuing CAB: fixed 2023 weights; whole cost,-431.667378293,-430.602325869,1.0650524238,-0.246729884481,48,48,whole
+Numeric continuing CAB: fixed 2024 weights; whole cost,-252.487303589,-249.604426599,2.88287699089,-1.1417908742,48,48,whole
+Numeric continuing combined boundary: annual weights; whole cost,-352.533976804,-200.547067076,151.986909728,-43.1126982727,55,55,whole
+Numeric continuing combined boundary: fixed 2023 weights; whole cost,-352.533976804,-351.683866283,0.850110520559,-0.241142861822,55,55,whole
+Numeric continuing combined boundary: fixed 2024 weights; whole cost,-202.771732896,-200.547067076,2.22466581981,-1.09712817859,55,55,whole
