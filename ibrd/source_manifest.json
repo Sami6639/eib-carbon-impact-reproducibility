@@ -1,0 +1,51 @@
+[
+  {
+    "year": 2024,
+    "file": "IBRD_FY2024.pdf",
+    "url": "https://thedocs.worldbank.org/en/doc/93cedba65079dfee19fed7da7703b6e0-0340022025/original/FY24-Green-Bond-Annex-Table-External-View.pdf",
+    "sha256": "496d4c166993ddc9a40b9358cc04c1d504de41b1df4e0a688862a618001ebd24",
+    "bytes": 1488915,
+    "retrieved": "2026-10-07"
+  },
+  {
+    "year": 2025,
+    "file": "IBRD_FY2025.pdf",
+    "url": "https://thedocs.worldbank.org/en/doc/ee7c9a7a4fba5bd686a52257a086c75e-0340022026/original/FY25-IBRD-Green-Bond-Annex-Complete.pdf",
+    "sha256": "0fc02ad9bd07dd5c4f65c6172f4248f0001c5f4e02947cce1c292237a651d3fb",
+    "bytes": 920269,
+    "retrieved": "2026-10-07"
+  },
+  {
+    "year": 2025,
+    "file": "IBRD_FY2025_report.pdf",
+    "url": "https://thedocs.worldbank.org/en/doc/6b19367b12a4f2fa49c4cc93b61cc88a-0340022026/original/World-Bank-IBRD-FY25-IMPACT-REPORT.pdf",
+    "sha256": "b55b7e11718e2deabea7a7a21d877b7fa9a569ddbe5cd553baa310edb7e1034d",
+    "bytes": 13745644,
+    "retrieved": "2026-10-07",
+    "role": "unit-scale and aggregate commitments cross-check, page 43"
+  },
+  {
+    "file": "P154283_IEG.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099102025135524326/pdf/P154283-f48c00f2-6b0b-4bd0-8ee1-b3b563b5d4dc.pdf",
+    "sha256": "800662f0afe3ebe860ed9c904ddc596836bab41c12f71a9201e0becf03f0b97a",
+    "bytes": 181821,
+    "retrieved": "2026-10-07",
+    "role": "Exploratory tracing of status-transition project results"
+  },
+  {
+    "file": "P160408_IEG.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099121925131519718/pdf/P160408-17def84a-905c-4a15-97a9-046a95630950.pdf",
+    "sha256": "a82e2daef3e64d5506e92e07b29d3e300f1ac8c3640aa8ecddf014c161398040",
+    "bytes": 196933,
+    "retrieved": "2026-10-07",
+    "role": "Exploratory tracing of status-transition project results"
+  },
+  {
+    "file": "P131256_IEG.pdf",
+    "url": "https://documents1.worldbank.org/curated/en/099062325104027002/pdf/P131256-495117fd-b17f-436b-a287-574544f421c0.pdf",
+    "sha256": "6fedbf5a1d7bcefd4c48e64d9214d8956bac2c982b03d16f847d13b759cd478b",
+    "bytes": 193569,
+    "retrieved": "2026-10-07",
+    "role": "Exploratory tracing of status-transition project results"
+  }
+]

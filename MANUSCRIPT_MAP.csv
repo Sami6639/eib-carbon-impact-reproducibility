@@ -1,0 +1,18 @@
+manuscript_item,repository_files,selection_or_scope
+Table 1,results/table1_coverage_and_intensities.csv,EIB coverage and aggregate conventions
+Table 2,results/table2_exact_decomposition.csv,Select 2023–2024 relative-GHG population and cost basis
+Table 3,results/fixed_cohort_scope_controls.csv,Matched CAB and combined-stream cohorts
+Table 4,ibrd/results/matched_results.csv,IBRD FY2024–FY2025 matched comparisons
+Table 5,ibrd_deep/results/cost_results.csv; ibrd_deep/results/flag_exclusion_sensitivity.csv,IBRD historical cost and outcome-basis controls
+Table E1,results/deterministic_sensitivities_all.csv,EIB population and scope sensitivities
+Table E2,extension/results/ebrd_category.csv,EBRD category/year diagnostics
+Table E3,extension/results/nib_hierarchy_audit.csv,NIB hierarchy reconciliation
+Table E4,results/published_rule_shapley_bridge.csv,Select the 2023_2024 reconciliation
+Figure 1,figures/figure1_conventions.png,EIB aggregate conventions
+Figure 2,figures/figure2_decomposition.png,EIB observed-set attribution
+Figure 3,figures/figure3_coverage.png,EIB disclosure coverage
+Figure 4,figures/figure4_sensitivity.png,EIB alternative comparisons
+Table A1,README.md; MANUSCRIPT_MAP.csv,EIB execution/output map
+Table B1,extension/README.txt,EBRD/NIB output map
+Table C1,ibrd/results/status_transitions.csv; ibrd/results/outcome_trace.csv; ibrd_deep/results/audit_ledger.csv,Transition traces; current audit supersedes the earlier unresolved P132741 trace
+Table D1,ibrd_deep/results/audit_ledger.csv,Outcome-basis classification across the 31-project audit

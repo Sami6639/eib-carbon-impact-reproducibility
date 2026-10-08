@@ -1,0 +1,2953 @@
+{
+  "check_count": 735,
+  "passed": 735,
+  "checks": [
+    {
+      "name": "unique_project_year",
+      "passed": true
+    },
+    {
+      "name": "FY24_row_sequence",
+      "passed": true
+    },
+    {
+      "name": "FY25_row_sequence",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Active in both reports_P179867",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Active in both reports_P179867",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_Active in both reports",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P131256",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P131256",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P132741",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P132741",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P154283",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P154283",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P160408",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P160408",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_components_All valid matched incl status transitions_P179867",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_All valid matched incl status transitions_P179867",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_All valid matched incl status transitions",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Closed in both reports_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Closed in both reports_P164047",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_Closed in both reports",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Common displayed precision_P179867",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Common displayed precision_P179867",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_Common displayed precision",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary stable status_P179867",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary stable status_P179867",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_Primary stable status",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P107159",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P110371",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P119343",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P127775",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P131765",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P132873",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P144489",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P147760",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P148129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P148527",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P150930",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P158418",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P158522",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P162679",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P162957",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P163533",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P164047",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P165129",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P165300",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P165683",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P168862",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P170868",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P172187",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P172548",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P172562",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P172592",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P173021",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P174267",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P174915",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P175011",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P175728",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P175747",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P176232",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P176905",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P177004",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P177786",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P177876",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P178009",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P178067",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P179345",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Primary with reported IBRD share adjustment_P179867",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Primary with reported IBRD share adjustment_P179867",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_Primary with reported IBRD share adjustment",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P084874",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P095114",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P096556",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P096586",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P101988",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P104266",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P106261",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P107992",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P112578",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P113078",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P120664",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P122178",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P132443",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P143689",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P144534",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P146194",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P149872",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P154669",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P155007",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P162762",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P170236",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P170590",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P172668",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P175894",
+      "passed": true
+    },
+    {
+      "name": "independent_components_Renewable energy and efficiency_P179867",
+      "passed": true
+    },
+    {
+      "name": "independent_weight_Renewable energy and efficiency_P179867",
+      "passed": true
+    },
+    {
+      "name": "exact_sum_Renewable energy and efficiency",
+      "passed": true
+    },
+    {
+      "name": "all_primary_GHG_equal_at_whole_tonne_precision",
+      "passed": true
+    },
+    {
+      "name": "same_status_primary",
+      "passed": true
+    },
+    {
+      "name": "primary_no_conflicting_id",
+      "passed": true
+    },
+    {
+      "name": "primary_positive_denominators",
+      "passed": true
+    },
+    {
+      "name": "source_sha256_IBRD_FY2024.pdf",
+      "passed": true
+    },
+    {
+      "name": "source_sha256_IBRD_FY2025.pdf",
+      "passed": true
+    },
+    {
+      "name": "source_sha256_IBRD_FY2025_report.pdf",
+      "passed": true
+    },
+    {
+      "name": "source_sha256_P154283_IEG.pdf",
+      "passed": true
+    },
+    {
+      "name": "source_sha256_P160408_IEG.pdf",
+      "passed": true
+    },
+    {
+      "name": "source_sha256_P131256_IEG.pdf",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2024_active_commitment",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2024_active_allocation",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2024_active_ghg",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2024_closed_commitment",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2024_closed_allocation",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2024_closed_ghg",
+      "passed": true
+    },
+    {
+      "name": "source_rounding_2025_all_commitment_usd_m_main_report_p43",
+      "passed": true
+    }
+  ],
+  "limits": [
+    "Reporting-vintage accounting, not causal identification",
+    "Eligible commitment denominator differs from EIB project cost",
+    "Primary numerical GHG stability only at common displayed precision",
+    "Four status transitions and identity conflicts excluded from primary",
+    "FY25 finance footnote unit conflict retained; USD scaling supported by header and main-report commitment total"
+  ]
+}

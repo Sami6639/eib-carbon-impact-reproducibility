@@ -1,0 +1,1544 @@
+{
+  "checks": 307,
+  "passed": 307,
+  "failed": 0,
+  "source_core_fields": 53,
+  "note": "Checks validate retrieved-file identity, extraction, selected semantic locators and arithmetic; manual scope judgements and physical counterfactuals are not proven by passing tests.",
+  "details": [
+    {
+      "check": "sha256 P146194_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P154669_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P096556_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P084874_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P101988_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P120664_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P154283_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P095114_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P113078_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P149872_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P106261_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P132443_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P107992_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P131256_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P104266_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P112578_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P122178_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P096586_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P148129_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P148527_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P144489_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P110371_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P131765_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P107159_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P127775_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P160408_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P150930_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P147760_IEG.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P146194_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P154669_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P096556_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P084874_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P101988_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P120664_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P154283_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P095114_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P113078_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P149872_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P106261_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P132443_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P131256_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P104266_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P112578_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P122178_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P096586_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P148129_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P148527_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P144489_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P110371_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P131765_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P131765_ICR_2.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P131765_ICR_3.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P107159_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P127775_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P160408_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P150930_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P147760_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P164047_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P132873_ICR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256 P132741_ISR.pdf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P146194 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P146194 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P146194",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P154669 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P096556 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P096556 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P084874 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P084874 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P101988 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P101988 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P120664 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P120664",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P120664 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P154283 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P095114 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P095114",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P095114 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P113078 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P113078 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P149872 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P149872",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P149872 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P149872",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P106261 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P106261",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P106261 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P132443 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P132443",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P107992 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P107992",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P107992 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P107992",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P131256 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P131256",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P104266 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P112578 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P112578",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P112578 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P112578",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P122178 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P122178 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P132741 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P132741",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P096586 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P148129 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P148129 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P148527 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P148527",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P148527 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P148527",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P144489 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P144489 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P110371 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P110371",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P110371 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P131765 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P107159 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P107159 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P127775 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P127775 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P160408 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P160408",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P150930 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P150930",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P150930 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P147760 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P147760",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P147760 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P164047 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P164047",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P164047 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P132873 cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "appraisal token P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "second reader P132873 ghg",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "quantity reconciliation P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P146194_ICR.pdf 21",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P149872_ICR.pdf 22",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P107992_IEG.pdf 11",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P112578_ICR.pdf 34",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P148527_ICR.pdf 50",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P110371_ICR.pdf 35",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P164047_ICR.pdf 53",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P150930_ICR.pdf 24",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P107159_ICR.pdf 51",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "semantic locator P132741_ISR.pdf 4",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "strict intensity 2024",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "strict intensity 2025",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "strict change",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "strict unchanged GHG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "strict rounding lower",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "strict rounding upper",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "expanded intensity 2024",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "expanded intensity 2025",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "expanded change",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "expanded unchanged GHG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "expanded rounding lower",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "expanded rounding upper",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge All accepted costs reported numerator diagnostic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P146194",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P120664",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P095114",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P149872",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P106261",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P107992",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P112578",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P148527",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P110371",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P150930",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P147760",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P164047",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum All accepted costs reported numerator diagnostic P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Fixed appraisal cost on available strict cohort",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed appraisal cost on available strict cohort P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Fixed completion cost same appraisal cohort",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Fixed completion cost same appraisal cohort P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Including reconstructed annual quantities",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P146194",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P149872",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P107992",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P112578",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P148527",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Including reconstructed annual quantities P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Same all-cost cohort eligible commitment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P146194",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P120664",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P095114",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P149872",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P106261",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P107992",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P112578",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P148527",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P110371",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P150930",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P147760",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P164047",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same all-cost cohort eligible commitment P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Same expanded cohort eligible commitment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P146194",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P149872",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P107992",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P112578",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P148527",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same expanded cohort eligible commitment P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Same strict cohort eligible commitment",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Same strict cohort eligible commitment P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Strict annual and whole cost",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict annual and whole cost P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bridge Strict source documents dated by FY2024 end",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P096556",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P084874",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P101988",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P113078",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P122178",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P148129",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P144489",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P107159",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P127775",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "component sum Strict source documents dated by FY2024 end P132873",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "audit census unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "cost source dates",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

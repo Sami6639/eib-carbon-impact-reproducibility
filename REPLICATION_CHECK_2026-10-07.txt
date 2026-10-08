@@ -1,0 +1,41 @@
+Public replication verification on 7 October 2026
+Runtime: Python 3.12.14; NumPy 2.3.5; pandas 2.2.3; Matplotlib 3.10.8; openpyxl 3.1.5.
+All three official workbooks were downloaded by code/acquire_sources.py and their SHA256 values matched.
+Before documentation changes: code/verify_bundle.py --sources --outputs passed 68 checks.
+Only documentation and an independent test were added; numerical outputs and original hash baselines were preserved.
+
+Command: python tests/test_analysis.py
+
+test_01_source_integrity (__main__.EIBTests.test_01_source_integrity) ... ok
+test_02_population (__main__.EIBTests.test_02_population) ... ok
+test_03_independent_openpyxl_cell_import (__main__.EIBTests.test_03_independent_openpyxl_cell_import) ... /opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/site-packages/openpyxl/reader/drawings.py:67: UserWarning: wmf image format is not supported so the image is being dropped
+  warn(msg)
+ok
+test_04_hidden_merged_zeros (__main__.EIBTests.test_04_hidden_merged_zeros) ... ok
+test_05_financial_domain (__main__.EIBTests.test_05_financial_domain) ... ok
+test_06_published_decimal_reconstruction (__main__.EIBTests.test_06_published_decimal_reconstruction) ... ok
+test_07_coverage_identity (__main__.EIBTests.test_07_coverage_identity) ... ok
+test_08_project_decompositions_sum (__main__.EIBTests.test_08_project_decompositions_sum) ... ok
+test_09_shapley_order_symmetry_and_zero (__main__.EIBTests.test_09_shapley_order_symmetry_and_zero) ... ok
+test_10_disclosure_transitions (__main__.EIBTests.test_10_disclosure_transitions) ... ok
+test_11_rule_bridge (__main__.EIBTests.test_11_rule_bridge) ... ok
+test_12_combined_boundary (__main__.EIBTests.test_12_combined_boundary) ... ok
+test_13_zero_and_positive (__main__.EIBTests.test_13_zero_and_positive) ... ok
+test_14_no_single_deletion_reversal (__main__.EIBTests.test_14_no_single_deletion_reversal) ... ok
+test_15_exact_missing_scenario_tie (__main__.EIBTests.test_15_exact_missing_scenario_tie) ... ok
+test_16_unresolved_2022_residual_retained (__main__.EIBTests.test_16_unresolved_2022_residual_retained) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 1.181s
+
+OK
+
+Command: python tests/test_independent_shapley.py
+Independent subset-formula verification: 760 continuing-project/model records, four terms per record.
+
+test_all_continuing_project_terms (__main__.IndependentAttributionTests.test_all_continuing_project_terms) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.630s
+
+OK

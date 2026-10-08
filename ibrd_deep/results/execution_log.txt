@@ -1,0 +1,90 @@
+{
+  "audit_projects": 31,
+  "completion_documents_projects": 30,
+  "interim_only_projects": 1,
+  "accepted_costs": 22,
+  "strict_n": 10,
+  "expanded_n": 15,
+  "strict_ids": [
+    "P096556",
+    "P084874",
+    "P101988",
+    "P113078",
+    "P122178",
+    "P148129",
+    "P144489",
+    "P107159",
+    "P127775",
+    "P132873"
+  ],
+  "expanded_ids": [
+    "P146194",
+    "P096556",
+    "P084874",
+    "P101988",
+    "P113078",
+    "P149872",
+    "P107992",
+    "P112578",
+    "P122178",
+    "P148129",
+    "P148527",
+    "P144489",
+    "P107159",
+    "P127775",
+    "P132873"
+  ],
+  "ghg_classes": {
+    "annual_direct": 13,
+    "horizon_conflict": 5,
+    "annualized_lifetime": 3,
+    "annual_components": 2,
+    "unresolved_value": 2,
+    "unit_ambiguity": 1,
+    "unit_conflict": 1,
+    "interim_annual": 1,
+    "approximate_period_average": 1,
+    "unresolved_scope": 1,
+    "basis_ambiguity": 1
+  },
+  "flagged_primary_ids": [
+    "P154669",
+    "P106261",
+    "P104266",
+    "P110371",
+    "P150930",
+    "P147760",
+    "P164047"
+  ],
+  "source_date_guard_n": 10,
+  "unresolved_cost_projects": [
+    "P154669",
+    "P154283",
+    "P132443",
+    "P131256",
+    "P104266",
+    "P132741",
+    "P096586",
+    "P131765",
+    "P160408"
+  ],
+  "source_files": 60,
+  "unique_source_hashes": 60
+}
+                                   specification  n      before       after  annual_change_pct  fixed_old_change_pct
+                    Strict annual and whole cost 10 1429.005449 1429.233567           0.015963              0.000000
+          Same strict cohort eligible commitment 10 5838.172762 5839.121175           0.016245             -0.000722
+       Including reconstructed annual quantities 15 1249.380823 1246.783160          -0.207916              0.000000
+        Same expanded cohort eligible commitment 15 4707.345058 4654.581625          -1.120875             -0.825859
+All accepted costs reported numerator diagnostic 22 2779.129402 2787.991233           0.318871              0.000000
+        Same all-cost cohort eligible commitment 22 5876.145234 5804.561199          -1.218214             -1.135101
+     Strict source documents dated by FY2024 end 10 1429.005449 1429.233567           0.015963              0.000000
+ Fixed appraisal cost on available strict cohort  9 3604.907906 3604.854952          -0.001469              0.000000
+     Fixed completion cost same appraisal cohort  9 1955.439949 1955.447018           0.000361              0.000000
+FLAGS {'specification': 'Original primary excluding identified basis flags', 'n': 58, 'before': 3415.661385659237, 'after': 3416.209706101604, 'annual_change_pct': 0.016053126479942392, 'fixed_old_change_pct': 0.674647871389622, 'fixed_new_change_pct': 0.23955629618692686, 'symmetric_change_pct': np.float64(0.45734488434316933), 'allocation_2024': np.float64(6050.1), 'allocation_2025': np.float64(6636.873825), 'listed_coverage_2024_pct': np.float64(36.886355322521645), 'listed_coverage_2025_pct': np.float64(38.60173967602119), 'primary65_coverage_2024_pct': np.float64(86.72983743799995), 'primary65_coverage_2025_pct': np.float64(87.11418576762792), 'countries': 25}
+                       min       max
+cohort                              
+expanded         -0.429069  0.272008
+expanded_country -0.429069  0.274643
+strict            0.000361  0.025014
+strict_country    0.000361  0.033705

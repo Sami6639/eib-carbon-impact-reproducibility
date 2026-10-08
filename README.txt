@@ -9,7 +9,8 @@ Reproduction
 2. Obtain the official original source editions, using python code/acquire_sources.py --source-dir sources, or place matching manually downloaded workbooks in that folder. The acquisition script verifies the exact audited SHA256; changed editions and non-workbook downloads fail rather than silently replacing the sources. Official URLs and hashes are also in code/extract.py.
 3. Run python code/run_analysis.py --source-dir sources. Outputs are rebuilt under data/, results/ and figures/; no workbook is edited or recalculated.
 4. Run EIB_SOURCE_DIR=sources python tests/test_analysis.py. The tests include independent openpyxl import of every financial/GHG value checked against the standalone OOXML extraction, decimal summary arithmetic, exact identity tests, hidden-merge handling, stream deduplication, genuine zeros and positive values, and source integrity.
-5. Reproduce.ipynb is an optional notebook wrapper for the same complete workflow.
+5. Run python tests/test_independent_shapley.py for an independent subset-formula verification of the published continuing-project attribution terms. This does not import the production decomposition functions.
+6. Reproduce.ipynb is an optional notebook wrapper for the same complete workflow.
 
 The run_analysis.py default is the sources/ directory relative to the analysis root; --source-dir can point to another read-only source directory. All regeneration paths are relative to the analysis root unless explicitly supplied by the caller. Source extraction uses Python standard-library OOXML parsing. openpyxl is used independently only in tests. Original drawing-format warnings from openpyxl do not affect read-only cell values and no source file is saved.
 
@@ -18,7 +19,9 @@ Files
 - code/extract.py: merge-aware OOXML extraction, source manifest, literal/semantic status handling.
 - code/run_analysis.py: estimands, exact decompositions, deterministic sensitivities and four Matplotlib figures.
 - code/acquire_sources.py: exact-vintage acquisition with fail-closed integrity checks.
-- tests/test_analysis.py: sixteen tests; results/test_stdout.txt records execution.
+- tests/test_analysis.py: sixteen tests; results/test_stdout.txt records the original execution.
+- tests/test_independent_shapley.py: independently checks 760 continuing-project/model records using the subset formula.
+- REPLICATION_CHECK_2026-10-07.txt: clean retrieval and rerun record for the current public package.
 - RESULTS_AND_METHODS.txt: equations, findings, interpretation and limitations for manuscript use.
 - FIGURE_CAPTIONS.txt: figures and mandatory interpretive qualifications.
 - results/table1_coverage_and_intensities.csv: finance coverage, reconstructed and published aggregate measures.
@@ -56,7 +59,7 @@ Missingness and inference
 Below-threshold, deferred intermediary/framework, not-applicable, clarification nondisclosure and external-review withholding are retained separately. A common statistical censoring bound is not assumed. Census summaries have no sampling p-values, bootstrap confidence intervals or superpopulation standard errors. Leave-one-out ranges and scenario grids describe deterministic sensitivity, not probability.
 
 Source rights and conservative distribution
-Public accessibility is not an open-data licence. EIB retains copyright; no reusable open licence was verified in these workbooks. Do not package or publicly upload source XLSX/PDF, source screenshots, full source-text extracts or project-level row data without permission. A conservative replication bundle contains original code, acquisition instructions, source URLs/hashes, environment/tests, derived aggregate outputs and original figures. The full internal workspace retains read-only-source-derived audit detail for this authorized analysis. No EIB originals are copied into this analysis directory and nothing has been publicly uploaded.
+Public accessibility is not an open-data licence. EIB retains copyright; no reusable open licence was verified in these workbooks. Do not package or publicly upload source XLSX/PDF, source screenshots, full source-text extracts or project-level row data without permission. A conservative replication bundle contains original code, acquisition instructions, source URLs/hashes, environment/tests, derived aggregate outputs and original figures. The full internal workspace retains read-only-source-derived audit detail for this authorized analysis. The original EIB package is accompanied by the independent attribution test and verification record. See README.md and MANUSCRIPT_MAP.csv for the complete multi-institution update and current manuscript numbering. Original EIB workbooks are acquired into the local sources/ directory during reproduction and are not redistributed.
 
 Known unresolved issue
 The 2022 absolute summary is 35.2164758522, while the audited disclosed numerator divided by all allocations gives 35.2322196814, a residual of −0.0157438292. This is preserved, not forced to reconcile. The 2022 relative summary matches the all-allocation calculation. Its non-intermediated heading and initial-versus-current cost definition limit its role in longitudinal claims. No preparer intention, misconduct, error or hidden policy is inferred from numerical matches or residuals.
@@ -65,3 +68,6 @@ Portable bundle verification
 The conservative ZIP excludes original source files, source screenshots, full source-text extracts, every project-level data/audit output, caches and independent-review working files. The analysis script regenerates project-level audit files locally after exact sources are acquired; that regeneration does not authorize redistribution. LICENSE_CODE.txt licenses only original code under code/ and tests/, not EIB sources or their data. The environment.yml file is a proposed pinned Conda recipe; it was defined but was not created or executed. The successful runtime is the installed Python 3.12.14 environment recorded in VALIDATION_SUMMARY.txt.
 
 Run python code/verify_bundle.py to verify every distributed file against CHECKSUMS.sha256. After acquiring sources and regenerating outputs, run python code/verify_bundle.py --sources --outputs. The source switch checks the original workbook hashes. The output switch checks reproducible aggregate CSV and PNG checksums; PDF creation timestamps are suppressed for deterministic rendering; explicit expected-output checks cover CSV and PNG, while all shipped PDFs remain covered by the distributed-artifact manifest. A mismatch requires investigation, not automatic baseline replacement. Rendering hashes may depend on the font/runtime platform even when CSVs are numerically unchanged.
+
+Manuscript output mapping
+The manuscript Table 3 uses results/fixed_cohort_scope_controls.csv, not the supplementary sector file named table3_sector_profiles.csv. Manuscript Table E4 uses the 2023_2024 row of results/published_rule_shapley_bridge.csv. The worked bridge does not add to the lower-level project decomposition.

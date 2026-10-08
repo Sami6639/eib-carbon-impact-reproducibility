@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ebrd2025.xlsx",
+    "url": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/treasury/sri/YE2025.xlsx",
+    "sha256": "b4bfaed269e7aa861b824251e204d3d731cac940482cb98aa7a400e0c0ba7fe6",
+    "bytes": 175013,
+    "retrieval_date": "2026-10-07"
+  },
+  {
+    "name": "ebrd2024.xlsx",
+    "url": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/treasury/sri/YE2024.xlsx",
+    "sha256": "c2ec8ed916f62510b964b2db9f419a4854dbb812438eca7debd58585dd819043",
+    "bytes": 177506,
+    "retrieval_date": "2026-10-07"
+  },
+  {
+    "name": "nib2011_2025.xlsx",
+    "url": "https://www.nib.int/files/f28388a3dec515b1d56ddd88b70d4b743f6a7a4f/neb-impact-table-2011-2024-old-framework-updated-2025.xlsx",
+    "sha256": "ef48f94e4a704487c6df7c02fbb9fc43c74aaf0579511ae5b01334a5c46e0242",
+    "bytes": 171451,
+    "retrieval_date": "2026-10-07"
+  },
+  {
+    "name": "ebrd2023.xlsb",
+    "url": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/pdfs/treasury/sri/YE2023.xlsb",
+    "sha256": "c015a672520acc79cbd46dcf3bc74452b691650257291bf9590601d2a8728e43",
+    "bytes": 178776,
+    "retrieval_date": "2026-10-07"
+  }
+]

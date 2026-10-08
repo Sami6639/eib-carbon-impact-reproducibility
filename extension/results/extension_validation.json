@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "checks": 38,
+  "check_names": [
+    "openpyxl_2024_Renewable Energy_projects",
+    "openpyxl_2024_Renewable Energy_portfolio_eur",
+    "openpyxl_2024_Renewable Energy_full_ghg_t",
+    "openpyxl_2024_Renewable Energy_attributed_ghg_t",
+    "openpyxl_2024_Energy Efficiency_projects",
+    "openpyxl_2024_Energy Efficiency_portfolio_eur",
+    "openpyxl_2024_Energy Efficiency_full_ghg_t",
+    "openpyxl_2024_Energy Efficiency_attributed_ghg_t",
+    "openpyxl_2024_Grand Total_projects",
+    "openpyxl_2024_Grand Total_portfolio_eur",
+    "openpyxl_2024_Grand Total_full_ghg_t",
+    "openpyxl_2024_Grand Total_attributed_ghg_t",
+    "openpyxl_2025_Renewable Energy_projects",
+    "openpyxl_2025_Renewable Energy_portfolio_eur",
+    "openpyxl_2025_Renewable Energy_full_ghg_t",
+    "openpyxl_2025_Renewable Energy_attributed_ghg_t",
+    "openpyxl_2025_Energy Efficiency_projects",
+    "openpyxl_2025_Energy Efficiency_portfolio_eur",
+    "openpyxl_2025_Energy Efficiency_full_ghg_t",
+    "openpyxl_2025_Energy Efficiency_attributed_ghg_t",
+    "openpyxl_2025_Grand Total_projects",
+    "openpyxl_2025_Grand Total_portfolio_eur",
+    "openpyxl_2025_Grand Total_full_ghg_t",
+    "openpyxl_2025_Grand Total_attributed_ghg_t",
+    "independent_bridge_2023_2024_Renewable Energy",
+    "independent_bridge_2023_2024_Energy Efficiency",
+    "independent_bridge_2023_2024_Grand Total",
+    "independent_bridge_2024_2025_Renewable Energy",
+    "independent_bridge_2024_2025_Energy Efficiency",
+    "independent_bridge_2024_2025_Grand Total",
+    "NIB_shared_formula_expanded",
+    "NIB_parent_equals_children",
+    "NIB_disjoint_sum",
+    "NIB_cached_published_value",
+    "sha256_ebrd2025.xlsx",
+    "sha256_ebrd2024.xlsx",
+    "sha256_nib2011_2025.xlsx",
+    "sha256_ebrd2023.xlsb"
+  ],
+  "source_exceptions": [
+    "EBRD 2024 category count 195 versus general count 194; no forced reconciliation",
+    "NIB hierarchy totals preserved; non-overlapping sums reported as analyst diagnostics"
+  ],
+  "interpretation_limits": [
+    "EBRD country groups are not a project panel",
+    "NIB historical cohort title is not a longitudinal panel",
+    "EIB 2025 workbook unavailable; no 2025 EIB estimate"
+  ]
+}

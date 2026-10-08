@@ -1,0 +1,4 @@
+metric,unit,parent,children_sum,nonoverlapping_category_sum,published_total,all_displayed_rows_sum,excess_vs_nonoverlapping,excess_pct,source_formula,source_cell
+Added renewable energy capacity,MW,1080,1080,1150.0,2230,2230.0,1080.0,93.91304347826086,=SUM(E8:E19),E20
+Increased renewable energy generation,MWh/year,2851180,2851180,3567714.0,6418894,6418894.0,2851180.0,79.91615919885955,=SUM(F8:F19),F20
+GHG reduced or avoided,tCO2e/year,1054420,1054420,1267600.0,2322020,2322020.0,1054420.0,83.18239192174188,=SUM(H8:H19),H20

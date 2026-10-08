@@ -1,0 +1,52 @@
+{
+  "listed_records": {
+    "2024": 146,
+    "2025": 161
+  },
+  "common_ids": 146,
+  "numeric_both": 79,
+  "eligible_matched": 69,
+  "primary_n": 65,
+  "active_primary": 38,
+  "closed_primary": 27,
+  "identity_conflict_records": 4,
+  "matched_ghg_changed": 11,
+  "matched_ghg_changed_beyond_whole_tonne_rounding": 0,
+  "commitment_changed": 51,
+  "allocation_changed": 59,
+  "report_2025_removed_records": 12,
+  "transition_projects": [
+    "P131256",
+    "P132741",
+    "P154283",
+    "P160408"
+  ],
+  "primary_result": {
+    "specification": "Primary stable status",
+    "n": 65,
+    "before": 4427.11085658662,
+    "after": 4317.13615155439,
+    "annual_change_pct": -2.4841190698581705,
+    "fixed_old_after": 4388.670739283677,
+    "fixed_old_change_pct": -0.8682890162045931,
+    "fixed_new_change_pct": -1.1495449167859606,
+    "symmetric_change_pct": -1.0079612098647606,
+    "frozen_finance_change_pct": -2.0171055936657467e-07,
+    "allocation_before": 6975.8,
+    "allocation_after": 7618.591354
+  },
+  "project_loo": {
+    "n": 65,
+    "annual_min": -4.315974477127682,
+    "annual_max": -1.0694753237392107,
+    "fixed_min": -1.720165725824463,
+    "fixed_max": -0.06699765718002348
+  },
+  "country_loo": {
+    "n": 25,
+    "annual_min": -6.331582075001729,
+    "annual_max": -0.1790965396705202,
+    "fixed_min": -2.0451818552454037,
+    "fixed_max": -0.04521552732310585
+  }
+}

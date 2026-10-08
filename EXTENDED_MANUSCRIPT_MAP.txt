@@ -1,0 +1,6 @@
+Current manuscript: Carbon Impact Comparability in Green Bond Finance.
+Main Tables 1–3: EIB; Table 4: IBRD matched projects; Table 5: IBRD cost/outcome controls.
+Appendix E Tables E1–E4: EIB sensitivities, EBRD, NIB, EIB worked bridge.
+Figures 1–4 retain the original EIB results. Appendices A–D map reproduction and audit evidence.
+MANUSCRIPT_MAP.csv and README.md give the complete current mapping. Numerical output filenames are unchanged.
+Root CHECKSUMS.sha256 covers the complete package; module checksum files cover individual modules.

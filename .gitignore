@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+/sources/
+/data/
+/extension/sources/
+/ibrd/sources/
+/ibrd/data/
+/ibrd_deep/sources/
+.DS_Store

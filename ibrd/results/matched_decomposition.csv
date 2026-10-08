@@ -1,0 +1,355 @@
+specification,project_id,country,status_before,status_after,ghg_update,commitment_update,share_update,allocation_reweighting,total
+Primary stable status,P084874,China,closed,closed,0,0,0,-78.737625753,-78.737625753
+Primary stable status,P095114,India,closed,closed,0,0,0,-17.0259532677,-17.0259532677
+Primary stable status,P096556,China,closed,closed,0,-0.0273411133531,0,-9.46713449588,-9.49447560923
+Primary stable status,P096586,Ukraine,closed,closed,0,0,0,-10.3543848225,-10.3543848225
+Primary stable status,P101988,China,closed,closed,0,0,0,-2.66087214526,-2.66087214526
+Primary stable status,P104266,Tunisia,closed,closed,0,-2.52195972282,0,0.0323509847222,-2.48960873809
+Primary stable status,P106261,Mexico,closed,closed,0,0.0504433621562,0,-7.33393983152,-7.28349646937
+Primary stable status,P107159,Mexico,closed,closed,0,-0.00288849631155,0,-0.563659562908,-0.56654805922
+Primary stable status,P107992,Montenegro,closed,closed,0,-0.0334086243344,0,-5.78903289654e-05,-0.0334665146634
+Primary stable status,P110371,India,closed,closed,0,-0.0105068147094,0,-3.76309368221,-3.77360049692
+Primary stable status,P112578,Türkiye,closed,closed,0,-14.5329977276,0,-24.33992534,-38.8729230676
+Primary stable status,P113078,Indonesia,closed,closed,0,-0.0478101689686,0,-12.1695238116,-12.2173339806
+Primary stable status,P119343,Philippines,active,active,0,0,0,0.118715916945,0.118715916945
+Primary stable status,P120664,China,closed,closed,0,-0.025411145283,0,-5.00000874725,-5.02541989253
+Primary stable status,P122178,Türkiye,closed,closed,0,0,0,-4.81129225408,-4.81129225408
+Primary stable status,P127775,China,closed,closed,0,0.00674835381122,0,-1.01977866413,-1.01303031032
+Primary stable status,P131765,India,closed,closed,0,-0.00193306666945,0,-3.31552137531,-3.31745444198
+Primary stable status,P132443,Moldova,closed,closed,0,0.00315672273734,0,0.011128494162,0.0142852168994
+Primary stable status,P132873,China,closed,closed,0,0.000757078314615,0,-0.931518059854,-0.930760981539
+Primary stable status,P143689,Morocco,active,active,0,1.21761780959,0,-0.841434886845,0.376182922744
+Primary stable status,P144489,Ecuador,closed,closed,0,0.0613602773198,0,-0.77700307877,-0.715642801451
+Primary stable status,P144534,Türkiye,active,active,0,-5.35313337208,0,17.8329736601,12.479840288
+Primary stable status,P146194,Belarus,closed,closed,0,0.00809707153251,0,-1.87162678359,-1.86352971206
+Primary stable status,P147760,Belarus,closed,closed,0,-18.2676249178,0,-55.4510154154,-73.7186403331
+Primary stable status,P148129,China,closed,closed,0,0,0,-0.414624354599,-0.414624354599
+Primary stable status,P148527,China,closed,closed,0,0.00139820981638,0,-0.215247666182,-0.213849456365
+Primary stable status,P149872,Mexico,closed,closed,0,0.00179408242974,0,-0.288563530449,-0.286769448019
+Primary stable status,P150930,Morocco,closed,closed,0,0,0,-0.244048761257,-0.244048761257
+Primary stable status,P154669,China,closed,closed,0,-35.7961048658,0,1.01117643391,-34.7849284319
+Primary stable status,P155007,India,active,active,0,30.7072169884,0,-40.0697643872,-9.36254739875
+Primary stable status,P158418,Türkiye,active,active,0,-0.408253511441,0,0.215024404546,-0.193229106895
+Primary stable status,P158522,India,active,active,0,0.636308392961,0,4.93992299244,5.5762313854
+Primary stable status,P162679,India,active,active,0,0,0,0.278322864932,0.278322864932
+Primary stable status,P162762,Türkiye,active,active,0,-2.53124577252,0,6.10559663886,3.57435086634
+Primary stable status,P162957,Tunisia,active,active,-2.34547208737e-06,-0.0319300394481,0,0.278072791845,0.246140406925
+Primary stable status,P163533,India,active,active,0,-0.00417910117952,0,3.38492990168,3.3807508005
+Primary stable status,P164047,China,closed,closed,0,-1.32553601675,0,0.0394518448307,-1.28608417192
+Primary stable status,P165129,India,active,active,0,0,0,1.5135427369,1.5135427369
+Primary stable status,P165300,Colombia,active,active,0,0,0,2.46144893811,2.46144893811
+Primary stable status,P165683,Brazil,active,active,0,0.000105994060153,0,0.911285752227,0.911391746288
+Primary stable status,P168862,Western Balkan,active,active,0,-0.0242350185162,0,0.187344782683,0.163109764167
+Primary stable status,P170236,Cabo Verde,active,active,0,0,0,0.653080381566,0.653080381566
+Primary stable status,P170590,India,active,active,0,0.0751253947939,0,26.7441204716,26.8192458664
+Primary stable status,P170868,Serbia,active,active,0,-0.0402629202492,0,0.124222534208,0.0839596139584
+Primary stable status,P172187,India,active,active,0,4.21573612247,0,17.2399168888,21.4556530113
+Primary stable status,P172548,Egypt,active,active,0,0,0,3.86452148728,3.86452148728
+Primary stable status,P172562,Türkiye,active,active,-6.58088769232e-06,-0.269579021501,0,3.18584700228,2.91626139989
+Primary stable status,P172592,Belize,active,active,0,0.00130044669193,0,1.21125408479,1.21255453148
+Primary stable status,P172668,Moldova,active,active,0,-0.353148157691,0,4.71645565825,4.36330750056
+Primary stable status,P173021,Pakistan,active,active,-8.05668156971e-06,0,0,68.0030162066,68.0030081499
+Primary stable status,P174267,China,active,active,0,-0.110565875833,0,3.6339583283,3.52339245247
+Primary stable status,P174915,Türkiye,active,active,-2.7306471903e-08,-0.000997586578798,0,0.00634966497395,0.00535205108868
+Primary stable status,P175011,Türkiye,active,active,0,-0.139613303939,0,1.73309947592,1.59348617199
+Primary stable status,P175728,India,active,active,5.93775589082e-07,0.00094168545441,0,8.28697913932,8.28792141855
+Primary stable status,P175747,Morocco,active,active,5.26828292094e-06,-0.441458325919,0,4.48383362298,4.04238056535
+Primary stable status,P175894,Türkiye,active,active,-6.36418527026e-06,-0.110600673888,0,1.57596487696,1.46535783889
+Primary stable status,P176232,Uruguay,active,active,0,0.0012198574004,0,0.318223966293,0.319443823693
+Primary stable status,P176905,Argentina,active,active,0,2.50347667247,0,-1.09508732613,1.40838934634
+Primary stable status,P177004,Angola,active,active,0,-0.0251611533146,0,0.429283023428,0.404121870114
+Primary stable status,P177786,Republic of Cong,active,active,7.44247712575e-06,-2.70165366642,0,7.22608153312,4.52443530918
+Primary stable status,P177876,India,active,active,0,0.000370438135417,0,2.18929608337,2.18966652151
+Primary stable status,P178009,Indonesia,active,active,-6.93223900281e-06,0.000949775248048,0,-3.02835349088,-3.02741064787
+Primary stable status,P178067,Argentina,active,active,1.38374374001e-05,2.6084139215,0,-0.128605647329,2.47982211161
+Primary stable status,P179345,Türkiye,active,active,-1.34570930926e-06,-1.2812122862,0,25.2747518233,23.9935381914
+Primary stable status,P179867,Türkiye,active,active,0,-0.00411180742261,0,0.0457447352608,0.0416329278381
+All valid matched incl status transitions,P084874,China,closed,closed,0,0,0,-65.1805476739,-65.1805476739
+All valid matched incl status transitions,P095114,India,closed,closed,0,0,0,-14.0944173519,-14.0944173519
+All valid matched incl status transitions,P096556,China,closed,closed,0,-0.0245109192206,0,-7.83520181872,-7.85971273794
+All valid matched incl status transitions,P096586,Ukraine,closed,closed,0,0,0,-8.57156241505,-8.57156241505
+All valid matched incl status transitions,P101988,China,closed,closed,0,0,0,-2.20272204121,-2.20272204121
+All valid matched incl status transitions,P104266,Tunisia,closed,closed,0,-2.2612410067,0,0.200294165961,-2.06094684074
+All valid matched incl status transitions,P106261,Mexico,closed,closed,0,0.0452216907832,0,-6.07464262282,-6.02942093204
+All valid matched incl status transitions,P107159,Mexico,closed,closed,0,-0.00258949671097,0,-0.466410075354,-0.468999572065
+All valid matched incl status transitions,P107992,Montenegro,closed,closed,0,-0.029954794707,0,0.00225055885241,-0.0277042358546
+All valid matched incl status transitions,P110371,India,closed,closed,0,-0.00941920980436,0,-3.11444113954,-3.12386034935
+All valid matched incl status transitions,P112578,Türkiye,closed,closed,0,-13.0293447475,0,-19.1504218,-32.1797665475
+All valid matched incl status transitions,P113078,Indonesia,closed,closed,0,-0.0428611430104,0,-10.0708870473,-10.1137481903
+All valid matched incl status transitions,P119343,Philippines,active,active,0,0,0,0.109263670005,0.109263670005
+All valid matched incl status transitions,P120664,China,closed,closed,0,-0.0227807376661,0,-4.13736020834,-4.16014094601
+All valid matched incl status transitions,P122178,Türkiye,closed,closed,0,0,0,-3.98288189593,-3.98288189593
+All valid matched incl status transitions,P127775,China,closed,closed,0,0.00604979462667,0,-0.844656112833,-0.838606318206
+All valid matched incl status transitions,P131256,Morocco,active,closed,-36.044674071,44.9889670457,0,-0.450646400256,8.49364657435
+All valid matched incl status transitions,P131765,India,closed,closed,0,-0.00173296618174,0,-2.74452075107,-2.74625371725
+All valid matched incl status transitions,P132443,Moldova,closed,closed,0,0.00283038414302,0,0.0558997841093,0.0587301682524
+All valid matched incl status transitions,P132741,Ukraine,active,closed,-8.96711946476,0.000560436834931,0,-0.652944928606,-9.61950395653
+All valid matched incl status transitions,P132873,China,closed,closed,0,0.000678709567931,0,-0.771180867209,-0.770502157641
+All valid matched incl status transitions,P143689,Morocco,active,active,0,1.09157633685,0,-0.696642697355,0.39493363949
+All valid matched incl status transitions,P144489,Ecuador,closed,closed,0,0.0550085420554,0,-0.643544284363,-0.588535742308
+All valid matched incl status transitions,P144534,Türkiye,active,active,0,-4.80039929531,0,17.2803093739,12.4799100786
+All valid matched incl status transitions,P146194,Belarus,closed,closed,0,0.00725890166392,0,-1.54992527085,-1.54266636919
+All valid matched incl status transitions,P147760,Belarus,closed,closed,0,-16.3772623708,0,-44.6484709395,-61.0257333103
+All valid matched incl status transitions,P148129,China,closed,closed,0,0,0,-0.343234155885,-0.343234155885
+All valid matched incl status transitions,P148527,China,closed,closed,0,0.00125347345821,0,-0.178282238961,-0.177028765503
+All valid matched incl status transitions,P149872,Mexico,closed,closed,0,0.00160836719599,0,-0.239001729001,-0.237393361805
+All valid matched incl status transitions,P150930,Morocco,closed,closed,0,0,0,-0.202062139903,-0.202062139903
+All valid matched incl status transitions,P154283,India,active,closed,-0.158430653222,0.198181119549,0,-0.0738183006666,-0.0340678343401
+All valid matched incl status transitions,P154669,China,closed,closed,0,-32.0956013413,0,3.29995676477,-28.7956445766
+All valid matched incl status transitions,P155007,India,active,active,0,27.5183421756,0,-35.1387674371,-7.62042526142
+All valid matched incl status transitions,P158418,Türkiye,active,active,0,-0.366183574569,0,0.198731280841,-0.167452293728
+All valid matched incl status transitions,P158522,India,active,active,0,0.570681865625,0,4.61451959716,5.18520146278
+All valid matched incl status transitions,P160408,India,active,closed,-526.531241202,0.0645668328211,0,-34.895123452,-561.361797821
+All valid matched incl status transitions,P162679,India,active,active,0,0,0,0.287121450022,0.287121450022
+All valid matched incl status transitions,P162762,Türkiye,active,active,0,-2.27040240906,0,5.64338238891,3.37297997985
+All valid matched incl status transitions,P162957,Tunisia,active,active,-2.10578469596e-06,-0.0286670597247,0,0.25147159892,0.222802433411
+All valid matched incl status transitions,P163533,India,active,active,0,-0.00374921560571,0,3.09527310061,3.091523885
+All valid matched incl status transitions,P164047,China,closed,closed,0,-1.18850600894,0,0.123860359813,-1.06464564913
+All valid matched incl status transitions,P165129,India,active,active,0,0,0,1.39711865793,1.39711865793
+All valid matched incl status transitions,P165300,Colombia,active,active,0,0,0,2.21448675582,2.21448675582
+All valid matched incl status transitions,P165683,Brazil,active,active,0,9.51510837841e-05,0,0.82480079539,0.824895946474
+All valid matched incl status transitions,P168862,Western Balkan,active,active,0,-0.0217552683546,0,0.169599389491,0.147844121136
+All valid matched incl status transitions,P170236,Cabo Verde,active,active,0,0,0,0.589777106619,0.589777106619
+All valid matched incl status transitions,P170590,India,active,active,0,0.0673799768132,0,24.8522943244,24.9196743013
+All valid matched incl status transitions,P170868,Serbia,active,active,0,-0.0361175216688,0,0.114077197955,0.0779596762859
+All valid matched incl status transitions,P172187,India,active,active,0,3.78283469234,0,15.6856893957,19.4685240881
+All valid matched incl status transitions,P172548,Egypt,active,active,0,0,0,3.5158208599,3.5158208599
+All valid matched incl status transitions,P172562,Türkiye,active,active,-5.91125124573e-06,-0.242148081106,0,2.87447623752,2.63232224516
+All valid matched incl status transitions,P172592,Belize,active,active,0,0.00116829087123,0,1.09236051069,1.09352880156
+All valid matched incl status transitions,P172668,Moldova,active,active,0,-0.317283786412,0,4.25259275217,3.93530896576
+All valid matched incl status transitions,P173021,Pakistan,active,active,-7.23477540681e-06,0,0,61.4299968481,61.4299896133
+All valid matched incl status transitions,P174267,China,active,active,0,-0.0993486887839,0,3.27557642495,3.17622773617
+All valid matched incl status transitions,P174915,Türkiye,active,active,-2.4507336071e-08,-0.000895325827277,0,0.00576001328833,0.00486466295372
+All valid matched incl status transitions,P175011,Türkiye,active,active,0,-0.125417950337,0,1.56326337944,1.43784542911
+All valid matched incl status transitions,P175728,India,active,active,5.33980269539e-07,0.000846854370596,0,7.45867946745,7.4595268558
+All valid matched incl status transitions,P175747,Morocco,active,active,4.73100094504e-06,-0.396436521816,0,4.04976289685,3.65333110604
+All valid matched incl status transitions,P175894,Türkiye,active,active,-5.71866141634e-06,-0.0993823686031,0,1.42045891972,1.32107083245
+All valid matched incl status transitions,P176232,Uruguay,active,active,0,0.00109400924518,0,0.298924601712,0.300018610957
+All valid matched incl status transitions,P176905,Argentina,active,active,0,2.24432660375,0,-0.907351827119,1.33697477663
+All valid matched incl status transitions,P177004,Angola,active,active,0,-0.0226189436545,0,0.386584806522,0.363965862867
+All valid matched incl status transitions,P177786,Republic of Cong,active,active,6.67576757048e-06,-2.42333454685,0,6.66177842233,4.23845055125
+All valid matched incl status transitions,P177876,India,active,active,0,0.000333210654779,0,1.9699311108,1.97026432145
+All valid matched incl status transitions,P178009,Indonesia,active,active,-6.21464047047e-06,0.000851458192942,0,-2.5092754229,-2.50843017935
+All valid matched incl status transitions,P178067,Argentina,active,active,1.24048502498e-05,2.33836534542,0,-0.10736663269,2.23101111758
+All valid matched incl status transitions,P179345,Türkiye,active,active,-1.21022808998e-06,-1.15222439744,0,22.7476219077,21.5953963
+All valid matched incl status transitions,P179867,Türkiye,active,active,0,-0.00369299228054,0,0.0412911196034,0.0375981273229
+Active in both reports,P119343,Philippines,active,active,0,0,0,0.147419979904,0.147419979904
+Active in both reports,P143689,Morocco,active,active,0,4.00132351472,0,-7.7012341863,-3.69991067158
+Active in both reports,P144534,Türkiye,active,active,0,-17.4720994136,0,-52.0545924557,-69.5266918692
+Active in both reports,P155007,India,active,active,0,101.78445516,0,-198.686793724,-96.9023385637
+Active in both reports,P158418,Türkiye,active,active,0,-1.32531237083,0,0.196232242714,-1.12908012812
+Active in both reports,P158522,India,active,active,0,2.07042607545,0,0.323302785159,2.39372886061
+Active in both reports,P162679,India,active,active,0,0,0,-2.30325286107,-2.30325286107
+Active in both reports,P162762,Türkiye,active,active,0,-8.21735909792,0,5.53542786757,-2.68193123035
+Active in both reports,P162957,Tunisia,active,active,-7.44211133763e-06,-0.101313040504,0,0.726981114748,0.625660632133
+Active in both reports,P163533,India,active,active,0,-0.0135011697688,0,5.92709751015,5.91359634038
+Active in both reports,P165129,India,active,active,0,0,0,1.52995776676,1.52995776676
+Active in both reports,P165300,Colombia,active,active,0,0,0,7.41848432527,7.41848432527
+Active in both reports,P165683,Brazil,active,active,0,0.000337281107977,0,2.32329407384,2.32363135495
+Active in both reports,P168862,Western Balkan,active,active,0,-0.0771653304615,0,0.474683152586,0.397517822124
+Active in both reports,P170236,Cabo Verde,active,active,0,0,0,1.77821550342,1.77821550342
+Active in both reports,P170590,India,active,active,0,0.244209149775,0,12.8846471959,13.1288563457
+Active in both reports,P170868,Serbia,active,active,0,-0.130394198354,0,0.176046011821,0.045651813467
+Active in both reports,P172187,India,active,active,0,13.555129348,0,36.9438781454,50.4990074934
+Active in both reports,P172548,Egypt,active,active,0,0,0,8.3073142141,8.3073142141
+Active in both reports,P172562,Türkiye,active,active,-2.06350051428e-05,-0.845290902252,0,8.89398579481,8.04867425755
+Active in both reports,P172592,Belize,active,active,0,0.00406306328873,0,3.42519208911,3.4292551524
+Active in both reports,P172668,Moldova,active,active,0,-1.10133007462,0,13.414895432,12.3135653574
+Active in both reports,P173021,Pakistan,active,active,-2.54422373701e-05,0,0,183.573754841,183.573729399
+Active in both reports,P174267,China,active,active,0,-0.343831005532,0,10.4200387858,10.0762077803
+Active in both reports,P174915,Türkiye,active,active,-8.73823255732e-08,-0.00319233607057,0,0.0150794868265,0.0118870633736
+Active in both reports,P175011,Türkiye,active,active,0,-0.436833137731,0,4.87687219623,4.4400390585
+Active in both reports,P175728,India,active,active,1.80843703989e-06,0.00286805130928,0,24.7063672043,24.7092370641
+Active in both reports,P175747,Morocco,active,active,1.66226734653e-05,-1.39290499588,0,12.1617003454,10.7688119721
+Active in both reports,P175894,Türkiye,active,active,-1.97790788394e-05,-0.343732835489,0,4.52611152204,4.18235890748
+Active in both reports,P176232,Uruguay,active,active,0,0.00397230711311,0,-0.121438536101,-0.117466228988
+Active in both reports,P176905,Argentina,active,active,0,8.22717079341,0,-9.96250040838,-1.73532961497
+Active in both reports,P177004,Angola,active,active,0,-0.0773502632384,0,1.26192076836,1.18457050512
+Active in both reports,P177786,Republic of Cong,active,active,2.41410726193e-05,-8.76332117001,0,8.02843429914,-0.734862729797
+Active in both reports,P177876,India,active,active,0,0.00112164282044,0,6.57330515456,6.57442679738
+Active in both reports,P178009,Indonesia,active,active,-2.27814375285e-05,0.00312124920546,0,-27.5429732526,-27.5398747848
+Active in both reports,P178067,Argentina,active,active,4.54902016639e-05,8.57509030618,0,-1.10081563205,7.47432016433
+Active in both reports,P179345,Türkiye,active,active,-4.09544593351e-06,-3.89915980473,0,75.4272084007,71.5280445005
+Active in both reports,P179867,Türkiye,active,active,0,-0.0129288418203,0,0.126228335954,0.113299494134
+Closed in both reports,P084874,China,closed,closed,0,0,0,-23.0557848647,-23.0557848647
+Closed in both reports,P095114,India,closed,closed,0,0,0,-4.98550358741,-4.98550358741
+Closed in both reports,P096556,China,closed,closed,0,-0.0394577208437,0,-2.74069452475,-2.78015224559
+Closed in both reports,P096586,Ukraine,closed,closed,0,0,0,-3.03194904076,-3.03194904076
+Closed in both reports,P101988,China,closed,closed,0,0,0,-0.779150947809,-0.779150947809
+Closed in both reports,P104266,Tunisia,closed,closed,0,-3.64529815542,0,2.91629619588,-0.729001959532
+Closed in both reports,P106261,Mexico,closed,closed,0,0.0727969596523,0,-2.20553497473,-2.13273801508
+Closed in both reports,P107159,Mexico,closed,closed,0,-0.00416858928414,0,-0.161726813885,-0.165895403169
+Closed in both reports,P107992,Montenegro,closed,closed,0,-0.0482884884632,0,0.0384888944969,-0.0097995939663
+Closed in both reports,P110371,India,closed,closed,0,-0.0151630584774,0,-1.08981464932,-1.1049777078
+Closed in both reports,P112578,Türkiye,closed,closed,0,-20.9855498771,0,9.60286284864,-11.3826870284
+Closed in both reports,P113078,Indonesia,closed,closed,0,-0.0689980430352,0,-3.50845582585,-3.57745386889
+Closed in both reports,P120664,China,closed,closed,0,-0.036672583115,0,-1.43486022968,-1.47153281279
+Closed in both reports,P122178,Türkiye,closed,closed,0,0,0,-1.40883241107,-1.40883241107
+Closed in both reports,P127775,China,closed,closed,0,0.00973884015186,0,-0.306372230768,-0.296633390616
+Closed in both reports,P131765,India,closed,closed,0,-0.00278972304903,0,-0.968620262727,-0.971409985776
+Closed in both reports,P132443,Moldova,closed,closed,0,0.00456282506932,0,0.785400093823,0.789962918893
+Closed in both reports,P132873,China,closed,closed,0,0.00109258221576,0,-0.273636042164,-0.272543459948
+Closed in both reports,P144489,Ecuador,closed,closed,0,0.0885517305614,0,-0.232980581247,-0.144428850686
+Closed in both reports,P146194,Belarus,closed,closed,0,0.0116852746623,0,-0.557360099365,-0.545674824703
+Closed in both reports,P147760,Belarus,closed,closed,0,-26.3731780694,0,4.78704188881,-21.5861361806
+Closed in both reports,P148129,China,closed,closed,0,0,0,-0.121409425645,-0.121409425645
+Closed in both reports,P148527,China,closed,closed,0,0.00201781721536,0,-0.0646367622527,-0.0626189450373
+Closed in both reports,P149872,Mexico,closed,closed,0,0.00258911927893,0,-0.0865603418814,-0.0839712226025
+Closed in both reports,P150930,Morocco,closed,closed,0,0,0,-0.0720280628143,-0.0720280628143
+Closed in both reports,P154669,China,closed,closed,0,-51.7417935703,0,41.5561444757,-10.1856490946
+Closed in both reports,P164047,China,closed,closed,0,-1.91601241591,0,1.53942397167,-0.376588444243
+Renewable energy and efficiency,P084874,China,closed,closed,0,0,0,-51.4070062021,-51.4070062021
+Renewable energy and efficiency,P095114,India,closed,closed,0,0,0,-11.1160741368,-11.1160741368
+Renewable energy and efficiency,P096556,China,closed,closed,0,-0.0448715235178,0,-6.15397638258,-6.1988479061
+Renewable energy and efficiency,P096586,Ukraine,closed,closed,0,0,0,-6.76027400747,-6.76027400747
+Renewable energy and efficiency,P101988,China,closed,closed,0,0,0,-1.73725673801,-1.73725673801
+Renewable energy and efficiency,P104266,Tunisia,closed,closed,0,-4.1438679473,0,2.51842737024,-1.62544057706
+Renewable energy and efficiency,P106261,Mexico,closed,closed,0,0.0827853846572,0,-4.83810718403,-4.75532179937
+Renewable energy and efficiency,P107992,Montenegro,closed,closed,0,-0.0548932416998,0,0.0330432899085,-0.0218499517913
+Renewable energy and efficiency,P112578,Türkiye,closed,closed,0,-23.8615258612,0,-1.51821575687,-25.3797416181
+Renewable energy and efficiency,P113078,Indonesia,closed,closed,0,-0.0784648995049,0,-7.89810992998,-7.97657482948
+Renewable energy and efficiency,P120664,China,closed,closed,0,-0.0417042162103,0,-3.23934203218,-3.28104624839
+Renewable energy and efficiency,P122178,Türkiye,closed,closed,0,0,0,-3.1412444607,-3.1412444607
+Renewable energy and efficiency,P132443,Moldova,closed,closed,0,0.00518687840359,0,0.679217919075,0.684404797479
+Renewable energy and efficiency,P143689,Morocco,active,active,0,1.99831243401,0,-0.550608338596,1.44770409542
+Renewable energy and efficiency,P144534,Türkiye,active,active,0,-8.80544855434,0,47.8809698967,39.0755213423
+Renewable energy and efficiency,P146194,Belarus,closed,closed,0,0.0132885908757,0,-1.22996845072,-1.21667985985
+Renewable energy and efficiency,P149872,Mexico,closed,closed,0,0.00294436995986,0,-0.190173266589,-0.187228896629
+Renewable energy and efficiency,P154669,China,closed,closed,0,-58.8181950391,0,36.1074641206,-22.7107309185
+Renewable energy and efficiency,P155007,India,active,active,0,50.2484896715,0,-54.4890918153,-4.24060214376
+Renewable energy and efficiency,P162762,Türkiye,active,active,0,-4.17114867369,0,12.4642333696,8.29308469588
+Renewable energy and efficiency,P170236,Cabo Verde,active,active,0,0,0,1.1337042368,1.1337042368
+Renewable energy and efficiency,P170590,India,active,active,0,0.123741868545,0,56.5078708482,56.6316127168
+Renewable energy and efficiency,P172668,Moldova,active,active,0,-0.589529836136,0,8.0910892978,7.50155946166
+Renewable energy and efficiency,P175894,Türkiye,active,active,-1.06355786236e-05,-0.184831539783,0,2.69623101153,2.51138883617
+Renewable energy and efficiency,P179867,Türkiye,active,active,0,-0.00684628269498,0,0.0791282375032,0.0722819548082
+Primary with reported IBRD share adjustment,P084874,China,closed,closed,0,0,0,-35.4319315889,-35.4319315889
+Primary with reported IBRD share adjustment,P095114,India,closed,closed,0,0,0,-10.2155719606,-10.2155719606
+Primary with reported IBRD share adjustment,P096556,China,closed,closed,0,-0.00738210060532,0,-2.55612631389,-2.56350841449
+Primary with reported IBRD share adjustment,P096586,Ukraine,closed,closed,0,0,0,-10.3543848225,-10.3543848225
+Primary with reported IBRD share adjustment,P101988,China,closed,closed,0,0,0,-0.824870365031,-0.824870365031
+Primary with reported IBRD share adjustment,P104266,Tunisia,closed,closed,0,-2.29498334776,0,0.0294393960972,-2.26554395167
+Primary with reported IBRD share adjustment,P106261,Mexico,closed,closed,0,0.024212813835,0,-3.52029111913,-3.4960783053
+Primary with reported IBRD share adjustment,P107159,Mexico,closed,closed,0,-0.000173309778693,0,-0.0338195737745,-0.0339928835532
+Primary with reported IBRD share adjustment,P107992,Montenegro,closed,closed,0,-0.0334086243344,0,-5.78903289654e-05,-0.0334665146634
+Primary with reported IBRD share adjustment,P110371,India,closed,closed,0,-0.00336218070701,0,-1.20418997831,-1.20755215901
+Primary with reported IBRD share adjustment,P112578,Türkiye,closed,closed,0,-12.643708023,0,-21.1757350458,-33.8194430688
+Primary with reported IBRD share adjustment,P113078,Indonesia,closed,closed,0,-0.0143430506906,0,-3.65085714349,-3.66520019418
+Primary with reported IBRD share adjustment,P119343,Philippines,active,active,0,0,0,0.0605451176421,0.0605451176421
+Primary with reported IBRD share adjustment,P120664,China,closed,closed,0,-0.00736923213207,0,-1.4500025367,-1.45737176883
+Primary with reported IBRD share adjustment,P122178,Türkiye,closed,closed,0,0,0,-3.22356581023,-3.22356581023
+Primary with reported IBRD share adjustment,P127775,China,closed,closed,0,0.00337417690561,0,-0.509889332066,-0.506515155161
+Primary with reported IBRD share adjustment,P131765,India,closed,closed,0,-0.00129515466853,0,-2.22139932146,-2.22269447613
+Primary with reported IBRD share adjustment,P132443,Moldova,closed,closed,0,0.00315672273734,0,0.011128494162,0.0142852168994
+Primary with reported IBRD share adjustment,P132873,China,closed,closed,0,0.00035582680787,0,-0.437813488131,-0.437457661324
+Primary with reported IBRD share adjustment,P143689,Morocco,active,active,0,0.961918069575,0,-0.664733560607,0.297184508968
+Primary with reported IBRD share adjustment,P144489,Ecuador,closed,closed,0,0.0230101039949,2.0164179258,-0.291688852597,1.7477391772
+Primary with reported IBRD share adjustment,P144534,Türkiye,active,active,0,-4.57692903313,-31.9518260506,15.2639982594,-21.2647568243
+Primary with reported IBRD share adjustment,P146194,Belarus,closed,closed,0,0.00809707153251,0,-1.87162678359,-1.86352971206
+Primary with reported IBRD share adjustment,P147760,Belarus,closed,closed,0,-17.3542436719,0,-52.6784646446,-70.0327083165
+Primary with reported IBRD share adjustment,P148129,China,closed,closed,0,0,0,-0.186580959569,-0.186580959569
+Primary with reported IBRD share adjustment,P148527,China,closed,closed,0,0.000293624061439,0,-0.0452020098982,-0.0449083858367
+Primary with reported IBRD share adjustment,P149872,Mexico,closed,closed,0,0.00148908841668,-0.651109669723,-0.239499779127,-0.889120360433
+Primary with reported IBRD share adjustment,P150930,Morocco,closed,closed,0,0,0,-0.195239009006,-0.195239009006
+Primary with reported IBRD share adjustment,P154669,China,closed,closed,0,-35.7961048658,0,1.01117643391,-34.7849284319
+Primary with reported IBRD share adjustment,P155007,India,active,active,0,18.4243301931,-28.6251507316,-23.5217490744,-33.722569613
+Primary with reported IBRD share adjustment,P158418,Türkiye,active,active,0,-0.404170976327,0,0.212874160501,-0.191296815826
+Primary with reported IBRD share adjustment,P158522,India,active,active,0,0.445415875073,0,3.45794609471,3.90336196978
+Primary with reported IBRD share adjustment,P162679,India,active,active,0,0,0,0.0974130027263,0.0974130027263
+Primary with reported IBRD share adjustment,P162762,Türkiye,active,active,0,-1.89843432939,0,4.57919747914,2.68076314975
+Primary with reported IBRD share adjustment,P162957,Tunisia,active,active,-5.62913300969e-07,-0.00766320946755,0,0.0667374700429,0.059073697662
+Primary with reported IBRD share adjustment,P163533,India,active,active,0,-0.00292537082566,0,2.36945093117,2.36652556035
+Primary with reported IBRD share adjustment,P164047,China,closed,closed,0,-0.291617923685,0,0.00867940586276,-0.282938517822
+Primary with reported IBRD share adjustment,P165129,India,active,active,0,0,0,1.21083418952,1.21083418952
+Primary with reported IBRD share adjustment,P165300,Colombia,active,active,0,0,0,0.886121617719,0.886121617719
+Primary with reported IBRD share adjustment,P165683,Brazil,active,active,0,6.46563766932e-05,0,0.555884308859,0.555948965235
+Primary with reported IBRD share adjustment,P168862,Western Balkan,active,active,0,-0.0342925512004,0.248986912549,0.261149980369,0.475844341717
+Primary with reported IBRD share adjustment,P170236,Cabo Verde,active,active,0,0,0,0.0457156267096,0.0457156267096
+Primary with reported IBRD share adjustment,P170590,India,active,active,0,0.0262938881779,0,9.36044216507,9.38673605324
+Primary with reported IBRD share adjustment,P170868,Serbia,active,active,0,-0.0185209433146,0.0178004931747,0.057029974198,0.0563095240581
+Primary with reported IBRD share adjustment,P172187,India,active,active,0,1.18040611429,0,4.82717672888,6.00758284317
+Primary with reported IBRD share adjustment,P172548,Egypt,active,active,0,0,0,3.86452148728,3.86452148728
+Primary with reported IBRD share adjustment,P172562,Türkiye,active,active,-5.03089204658e-06,-0.206227947961,0.20774411707,2.43210854567,2.43361968389
+Primary with reported IBRD share adjustment,P172592,Belize,active,active,0,0.00071524568056,0,0.666189746634,0.666904992315
+Primary with reported IBRD share adjustment,P172668,Moldova,active,active,0,-0.353148157691,0,4.71645565825,4.36330750056
+Primary with reported IBRD share adjustment,P173021,Pakistan,active,active,-7.6538474908e-06,0,0,64.6028653963,64.6028577424
+Primary with reported IBRD share adjustment,P174267,China,active,active,0,-0.0514131322621,-1.05626268572,1.70280947113,0.595133653152
+Primary with reported IBRD share adjustment,P174915,Türkiye,active,active,-2.46938173507e-08,-0.000902815835272,0.000991783229458,0.00573351313822,0.00582245583859
+Primary with reported IBRD share adjustment,P175011,Türkiye,active,active,0,-0.127048106584,0.123210190645,1.57397839671,1.57014048077
+Primary with reported IBRD share adjustment,P175728,India,active,active,4.15642912324e-07,0.000659179818087,0,5.80088539753,5.80154499299
+Primary with reported IBRD share adjustment,P175747,Morocco,active,active,5.13458325287e-06,-0.430421869764,0.243163543303,4.3666501517,4.17939695982
+Primary with reported IBRD share adjustment,P175894,Türkiye,active,active,-6.36418527026e-06,-0.110600673888,0,1.57596487696,1.46535783889
+Primary with reported IBRD share adjustment,P176232,Uruguay,active,active,0,0.00082950303227,0,0.216392297079,0.217221800112
+Primary with reported IBRD share adjustment,P176905,Argentina,active,active,0,1.8275379709,0,-0.799413748075,1.02812422283
+Primary with reported IBRD share adjustment,P177004,Angola,active,active,0,-0.0168579727208,0.0166480852286,0.287035706872,0.286825819379
+Primary with reported IBRD share adjustment,P177786,Republic of Cong,active,active,5.2619501294e-06,-1.90466581982,-8.14129493751,5.13808989074,-4.90786560464
+Primary with reported IBRD share adjustment,P177876,India,active,active,0,0.000259306694792,0,1.53250725836,1.53276656505
+Primary with reported IBRD share adjustment,P178009,Indonesia,active,active,-6.58562704972e-06,0.000902286485646,0,-2.87693581634,-2.87604011548
+Primary with reported IBRD share adjustment,P178067,Argentina,active,active,1.23153192861e-05,2.32148839014,0,-0.114459026123,2.20704167933
+Primary with reported IBRD share adjustment,P179345,Türkiye,active,active,-1.34570930926e-06,-1.2812122862,0,25.2747518233,23.9935381914
+Primary with reported IBRD share adjustment,P179867,Türkiye,active,active,0,-0.00417348453395,0.00409175501529,0.0463378192351,0.0462560897164
+Common displayed precision,P084874,China,closed,closed,0,0,0,-78.7722415782,-78.7722415782
+Common displayed precision,P095114,India,closed,closed,0,0,0,-17.0334384746,-17.0334384746
+Common displayed precision,P096556,China,closed,closed,0,0,0,-9.49864971411,-9.49864971411
+Common displayed precision,P096586,Ukraine,closed,closed,0,0,0,-10.3589369736,-10.3589369736
+Common displayed precision,P101988,China,closed,closed,0,0,0,-2.66204195809,-2.66204195809
+Common displayed precision,P104266,Tunisia,closed,closed,0,-2.52027056805,0,0.0295673105343,-2.49070325752
+Common displayed precision,P106261,Mexico,closed,closed,0,0,0,-7.28669855018,-7.28669855018
+Common displayed precision,P107159,Mexico,closed,closed,0,0,0,-0.566797133641,-0.566797133641
+Common displayed precision,P107992,Montenegro,closed,closed,0,-0.0335670784225,0,8.58507040786e-05,-0.0334812277184
+Common displayed precision,P110371,India,closed,closed,0,0,0,-3.77525950421,-3.77525950421
+Common displayed precision,P112578,Türkiye,closed,closed,0,-14.5228936353,0,-24.3671193344,-38.8900129696
+Common displayed precision,P113078,Indonesia,closed,closed,0,0,0,-12.2227051496,-12.2227051496
+Common displayed precision,P119343,Philippines,active,active,0,0,0,0.118654922795,0.118654922795
+Common displayed precision,P120664,China,closed,closed,0,0,0,-5.02762924358,-5.02762924358
+Common displayed precision,P122178,Türkiye,closed,closed,0,0,0,-4.8134074671,-4.8134074671
+Common displayed precision,P127775,China,closed,closed,0,0,0,-1.01347567402,-1.01347567402
+Common displayed precision,P131765,India,closed,closed,0,0,0,-3.31891291145,-3.31891291145
+Common displayed precision,P132443,Moldova,closed,closed,0,0,0,0.0142139209596,0.0142139209596
+Common displayed precision,P132873,China,closed,closed,0,0,0,-0.931170176751,-0.931170176751
+Common displayed precision,P143689,Morocco,active,active,0,1.21767103473,0,-0.840601026274,0.377070008458
+Common displayed precision,P144489,Ecuador,closed,closed,0,0.0606702303888,0,-0.776653638798,-0.715983408409
+Common displayed precision,P144534,Türkiye,active,active,0,-5.34474812271,0,17.8312642835,12.4865161608
+Common displayed precision,P146194,Belarus,closed,closed,0,0,0,-1.86434898516,-1.86434898516
+Common displayed precision,P147760,Belarus,closed,closed,0,-18.5215854565,0,-55.2294641795,-73.751049636
+Common displayed precision,P148129,China,closed,closed,0,0,0,-0.414806638025,-0.414806638025
+Common displayed precision,P148527,China,closed,closed,0,0,0,-0.213943472096,-0.213943472096
+Common displayed precision,P149872,Mexico,closed,closed,0,0,0,-0.286895521938,-0.286895521938
+Common displayed precision,P150930,Morocco,closed,closed,0,0,0,-0.243685305275,-0.243685305275
+Common displayed precision,P154669,China,closed,closed,0,-35.8073009584,0,1.00707985052,-34.8002211079
+Common displayed precision,P155007,India,active,active,0,30.7049258144,0,-40.0640918448,-9.35916603045
+Common displayed precision,P158418,Türkiye,active,active,0,-0.408392398079,0,0.215266753696,-0.193125644383
+Common displayed precision,P158522,India,active,active,0,0.641261407335,0,4.93963227547,5.5808936828
+Common displayed precision,P162679,India,active,active,0,0,0,0.281146606328,0.281146606328
+Common displayed precision,P162762,Türkiye,active,active,0,-2.52486490226,0,6.0980193691,3.57315446685
+Common displayed precision,P162957,Tunisia,active,active,0,-0.0319750067213,0,0.278516480918,0.246541474197
+Common displayed precision,P163533,India,active,active,0,0,0,3.37722559533,3.37722559533
+Common displayed precision,P164047,China,closed,closed,0,-1.32601607507,0,0.0393664953926,-1.28664957968
+Common displayed precision,P165129,India,active,active,0,0,0,1.5217758413,1.5217758413
+Common displayed precision,P165300,Colombia,active,active,0,0,0,2.4638798423,2.4638798423
+Common displayed precision,P165683,Brazil,active,active,0,0,0,0.909142471622,0.909142471622
+Common displayed precision,P168862,Western Balkan,active,active,0,-0.0242854626144,0,0.187148512829,0.162863050215
+Common displayed precision,P170236,Cabo Verde,active,active,0,0,0,0.643898302245,0.643898302245
+Common displayed precision,P170590,India,active,active,0,0.150284933583,0,26.6662262759,26.8165112095
+Common displayed precision,P170868,Serbia,active,active,0,-0.0400340195827,0,0.124124034576,0.0840900149932
+Common displayed precision,P172187,India,active,active,0,4.18061349841,0,17.1885402759,21.3691537743
+Common displayed precision,P172548,Egypt,active,active,0,0,0,3.86878892597,3.86878892597
+Common displayed precision,P172562,Türkiye,active,active,0,-0.270867760519,0,3.19109609182,2.92022833131
+Common displayed precision,P172592,Belize,active,active,0,0,0,1.21998185584,1.21998185584
+Common displayed precision,P172668,Moldova,active,active,0,-0.351387691672,0,4.70133617866,4.34994848699
+Common displayed precision,P173021,Pakistan,active,active,0,0,0,68.1013368374,68.1013368374
+Common displayed precision,P174267,China,active,active,0,-0.110938760027,0,3.63893556437,3.52799680434
+Common displayed precision,P174915,Türkiye,active,active,0,-0.00100448478033,0,0.00652085283806,0.00551636805773
+Common displayed precision,P175011,Türkiye,active,active,0,-0.139780806746,0,1.73150652917,1.59172572242
+Common displayed precision,P175728,India,active,active,0,0,0,8.27939749635,8.27939749635
+Common displayed precision,P175747,Morocco,active,active,0,-0.440724323425,0,4.49373424478,4.05300992136
+Common displayed precision,P175894,Türkiye,active,active,0,-0.110758200812,0,1.57712052682,1.46636232601
+Common displayed precision,P176232,Uruguay,active,active,0,0,0,0.308724512886,0.308724512886
+Common displayed precision,P176905,Argentina,active,active,0,2.50558927121,0,-1.08423233838,1.42135693283
+Common displayed precision,P177004,Angola,active,active,0,-0.0251151262803,0,0.428754162556,0.403639036275
+Common displayed precision,P177786,Republic of Cong,active,active,0,-2.66935398108,0,7.19320310263,4.52384912155
+Common displayed precision,P177876,India,active,active,0,0,0,2.18356003104,2.18356003104
+Common displayed precision,P178009,Indonesia,active,active,0,0,0,-2.99697973038,-2.99697973038
+Common displayed precision,P178067,Argentina,active,active,0,2.59462980102,0,-0.114908498644,2.47972130237
+Common displayed precision,P179345,Türkiye,active,active,0,-1.28179876647,0,25.2602668258,23.9784680593
+Common displayed precision,P179867,Türkiye,active,active,0,-0.00405973058267,0,0.0446344625074,0.0405747319248

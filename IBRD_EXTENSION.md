@@ -1,0 +1,1 @@
+The ibrd/ module supplies the matched FY2024–FY2025 application for manuscript Table 4 and Appendix C. See ibrd/README.md. The current ibrd_deep/ audit supersedes the earlier unresolved P132741 trace with interim ISR evidence, not completion verification. Original analytical results are preserved. MANUSCRIPT_MAP.csv supplies current numbering.

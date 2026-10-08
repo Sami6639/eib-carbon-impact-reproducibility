@@ -1,0 +1,70 @@
+{
+  "listed_records": {
+    "2024": 146,
+    "2025": 161
+  },
+  "common_ids": 146,
+  "numeric_both": 79,
+  "eligible_matched": 69,
+  "primary_n": 65,
+  "active_primary": 38,
+  "closed_primary": 27,
+  "identity_conflict_records": 4,
+  "matched_ghg_changed": 11,
+  "matched_ghg_changed_beyond_whole_tonne_rounding": 0,
+  "commitment_changed": 51,
+  "allocation_changed": 59,
+  "report_2025_removed_records": 12,
+  "transition_projects": [
+    "P131256",
+    "P132741",
+    "P154283",
+    "P160408"
+  ],
+  "primary_result": {
+    "specification": "Primary stable status",
+    "n": 65,
+    "before": 4427.11085658662,
+    "after": 4317.13615155439,
+    "annual_change_pct": -2.4841190698581705,
+    "fixed_old_after": 4388.670739283677,
+    "fixed_old_change_pct": -0.8682890162045931,
+    "fixed_new_change_pct": -1.1495449167859606,
+    "symmetric_change_pct": -1.0079612098647606,
+    "frozen_finance_change_pct": -2.0171055936657467e-07,
+    "allocation_before": 6975.8,
+    "allocation_after": 7618.591354
+  },
+  "project_loo": {
+    "n": 65,
+    "annual_min": -4.315974477127682,
+    "annual_max": -1.0694753237392107,
+    "fixed_min": -1.720165725824463,
+    "fixed_max": -0.06699765718002348
+  },
+  "country_loo": {
+    "n": 25,
+    "annual_min": -6.331582075001729,
+    "annual_max": -0.1790965396705202,
+    "fixed_min": -2.0451818552454037,
+    "fixed_max": -0.04521552732310585
+  }
+}
+                                   specification  n  annual_change_pct  fixed_old_change_pct  frozen_finance_change_pct
+                           Primary stable status 65          -2.484119             -0.868289              -2.017106e-07
+       All valid matched incl status transitions 69         -13.242811            -12.151834              -1.222037e+01
+                          Active in both reports 38           9.305556              4.862180              -1.241385e-06
+                          Closed in both reports 27          -1.751024             -1.980076               0.000000e+00
+                 Renewable energy and efficiency 25          -0.673657             -0.753743              -7.423056e-08
+     Primary with reported IBRD share adjustment 65          -4.285912             -3.813695              -2.433201e-07
+                      Common displayed precision 65          -2.486305             -0.871826               0.000000e+00
+Stable reported financing and eligibility shares 51          -3.421590             -1.631012              -3.844256e-07
+                                             ghg_update  commitment_update  share_update  allocation_reweighting       total
+specification                                                                                                               
+Active in both reports                        -0.000012          93.916268      0.000000              142.650475  236.566731
+All valid matched incl status transitions   -571.701469           5.494219      0.000000              -68.423254 -634.630505
+Closed in both reports                         0.000000        -104.684335      0.000000               14.139747  -90.544588
+Common displayed precision                     0.000000         -44.456077      0.000000              -65.615422 -110.071499
+Primary stable status                         -0.000005         -44.322326      0.000000              -65.652375 -109.974705
+Primary with reported IBRD share adjustment   -0.000004         -54.622790    -67.546589              -12.119881 -134.289265
+Renewable energy and efficiency               -0.000011         -48.326578      0.000000               13.921931  -34.404658

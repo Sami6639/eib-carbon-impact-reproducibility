@@ -1,0 +1,24 @@
+ year          category  projects  portfolio_eur  full_ghg_t  attributed_ghg_t  source_sheet  source_row  full_intensity  attributed_intensity  effective_attribution_ratio
+ 2023  Renewable Energy      86.0   2.504697e+09 16018926.54      3.559976e+06 7. GPP Impact          39     6395.554328           1421.320083                     0.222236
+ 2023 Energy Efficiency      59.0   1.641793e+09  1579755.04      8.571953e+05 7. GPP Impact          40      962.213380            522.109294                     0.542613
+ 2023       Grand Total     145.0   4.146490e+09 17598681.58      4.417172e+06 7. GPP Impact          41     4244.235899           1065.279709                     0.250994
+ 2024  Renewable Energy     110.0   3.822511e+09 20741991.75      4.762866e+06 7. GPP Impact          41     5426.273856           1246.004438                     0.229624
+ 2024 Energy Efficiency      85.0   2.122845e+09  1008358.73      4.874136e+05 7. GPP Impact          42      475.003423            229.603947                     0.483373
+ 2024       Grand Total     194.0   5.945356e+09 21750350.48      5.250279e+06 7. GPP Impact          43     3658.376326            883.089113                     0.241388
+ 2025  Renewable Energy     128.0   4.772597e+09 27085441.36      5.632143e+06 7. GPP Impact          40     5675.200115           1180.100424                     0.207940
+ 2025 Energy Efficiency      82.0   2.054919e+09  1131748.72      5.441164e+05 7. GPP Impact          41      550.750962            264.787228                     0.480775
+ 2025       Grand Total     210.0   6.827516e+09 28217190.08      6.176260e+06 7. GPP Impact          42     4132.863332            904.613017                     0.218883
+   period          category  full_intensity_change_pct  attributed_intensity_change_pct  full_intensity_term  effective_attribution_term  attributed_intensity_delta
+2023_2024  Renewable Energy                 -15.155535                       -12.334705          -218.989515                   43.673870                 -175.315645
+2023_2024 Energy Efficiency                 -50.634294                       -56.023777          -249.935308                  -42.570039                 -292.505346
+2023_2024       Grand Total                 -13.803652                       -17.102606          -144.233567                  -37.957029                 -182.190596
+2024_2025  Renewable Energy                   4.587425                        -5.289228            54.460609                 -120.364623                  -65.904014
+2024_2025 Energy Efficiency                  15.946735                        15.323465            36.515924                   -1.332643                   35.183281
+2024_2025       Grand Total                  12.969880                         2.437342           109.196338                  -87.672434                   21.523904
+Country bridge: {'within_country': {'2023_2024': -46.090589350176124, '2024_2025': 52.855422026043556}, 'country_mix': {'2023_2024': -271.21456262532257, '2024_2025': -125.68544326964165}, 'entry': {'2023_2024': 141.98950725053217, '2024_2025': 6.9260076577643375}, 'exit': {'2023_2024': 0.0, '2024_2025': 0.0}}
+Reconciliation checks {'pass': 35, 'source_count_discrepancy': 1}
+Opposite signs LOO {'sum': {'2023_2024': 0, '2024_2025': 28}, 'count': {'2023_2024': 27, '2024_2025': 29}}
+                               metric       unit  parent  children_sum  nonoverlapping_category_sum  published_total  all_displayed_rows_sum  excess_vs_nonoverlapping  excess_pct source_formula source_cell
+      Added renewable energy capacity         MW    1080          1080                       1150.0             2230                  2230.0                    1080.0   93.913043   =SUM(E8:E19)         E20
+Increased renewable energy generation   MWh/year 2851180       2851180                    3567714.0          6418894               6418894.0                 2851180.0   79.916159   =SUM(F8:F19)         F20
+               GHG reduced or avoided tCO2e/year 1054420       1054420                    1267600.0          2322020               2322020.0                 1054420.0   83.182392   =SUM(H8:H19)         H20

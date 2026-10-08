@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "outputs_matching": [
+    "cost_results.csv",
+    "allocation_rounding_bounds.csv",
+    "cost_decomposition.csv",
+    "deep_validation.json",
+    "audit_ledger.csv",
+    "cost_summary.json",
+    "cost_leave_one_out.csv",
+    "flag_exclusion_sensitivity.csv"
+  ],
+  "checks": 307,
+  "source_files_verified": 60,
+  "note": "Packaged scripts rerun from minimal audit index with previously downloaded hash-verified source files and previously regenerated original IBRD input data; no full earlier-analysis rerun in this extension."
+}

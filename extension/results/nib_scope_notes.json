@@ -1,0 +1,9 @@
+{
+  "snapshot_date": "2025-12-31",
+  "allocation_cutoff": "2024-08-31",
+  "new_allocations_2025": false,
+  "evidence": "B2 and A5; matured/repaid loans removed; all new disbursements since September 2024 go to new pool",
+  "ghg_shared_formula": "=SUM(H8:H19)",
+  "interpretation": "Published total includes parent Renewable energy generation and five exhaustive subcategories. Alternative subtotal sums seven top-level categories once. This is a source arithmetic diagnostic, not a validated estimate of realised emissions or an issuer-confirmed correction.",
+  "rounding_note_conflict": "B2 says standard rounding since 2023; B29 says rounded down. Both are retained, not resolved by assumption."
+}

@@ -1,0 +1,5 @@
+project_id,document,page,source_value,source_unit,finding
+P131256,P131256_IEG.pdf,8.0,900774.0,tonnes CO2e/year,"FY25 annex value agrees with reported completion result; FY24 value equals IEG target 1270000. Closure 28 June 2024; this is a report-vintage update, not 2024-to-2025 physical change."
+P160408,P160408_IEG.pdf,7.0,1382000.0,"tonnes/year, estimated reduction",FY25 annex value agrees with estimated completion result. IEG end target 4789515 differs from FY24 annex 5661643.6; direct forecast-error interpretation is not identified.
+P154283,P154283_IEG.pdf,6.0,7465.0,thousand tonnes/year,IEG target 8892 and completion 7465 are in thousand tonnes/year; annex values 8892 and 7465 appear under tonnes/year. Factor-1000 unit conflict. Do not silently restate; excluded from primary as status transition.
+P132741,Not independently traced in this audit,,,,Annex status transition retained descriptively; underlying 32000 completion estimate not independently traced.

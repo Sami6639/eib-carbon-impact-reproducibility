@@ -1,0 +1,73 @@
+{
+  "audit_projects": 31,
+  "completion_documents_projects": 30,
+  "interim_only_projects": 1,
+  "accepted_costs": 22,
+  "strict_n": 10,
+  "expanded_n": 15,
+  "strict_ids": [
+    "P096556",
+    "P084874",
+    "P101988",
+    "P113078",
+    "P122178",
+    "P148129",
+    "P144489",
+    "P107159",
+    "P127775",
+    "P132873"
+  ],
+  "expanded_ids": [
+    "P146194",
+    "P096556",
+    "P084874",
+    "P101988",
+    "P113078",
+    "P149872",
+    "P107992",
+    "P112578",
+    "P122178",
+    "P148129",
+    "P148527",
+    "P144489",
+    "P107159",
+    "P127775",
+    "P132873"
+  ],
+  "ghg_classes": {
+    "annual_direct": 13,
+    "horizon_conflict": 5,
+    "annualized_lifetime": 3,
+    "annual_components": 2,
+    "unresolved_value": 2,
+    "unit_ambiguity": 1,
+    "unit_conflict": 1,
+    "interim_annual": 1,
+    "approximate_period_average": 1,
+    "unresolved_scope": 1,
+    "basis_ambiguity": 1
+  },
+  "flagged_primary_ids": [
+    "P154669",
+    "P106261",
+    "P104266",
+    "P110371",
+    "P150930",
+    "P147760",
+    "P164047"
+  ],
+  "source_date_guard_n": 10,
+  "unresolved_cost_projects": [
+    "P154669",
+    "P154283",
+    "P132443",
+    "P131256",
+    "P104266",
+    "P132741",
+    "P096586",
+    "P131765",
+    "P160408"
+  ],
+  "source_files": 60,
+  "unique_source_hashes": 60
+}

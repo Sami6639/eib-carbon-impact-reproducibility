@@ -1,0 +1,8 @@
+year,status,field,source,reconstructed,difference,tolerance,within_rounding
+2024,active,commitment,11746,11746.3,0.299999999999,2.85,True
+2024,active,allocation,4283.1,4283.2,0.0999999999995,2.85,True
+2024,active,ghg,26691246,26691245.72,-0.280000004917,0.5,True
+2024,closed,commitment,12126.3,12126.4,0.1,4.55,True
+2024,closed,allocation,12118.6,12118.8,0.199999999999,4.55,True
+2024,closed,ghg,41472314,41472314,0,0.5,True
+2025,all,commitment_usd_m_main_report_p43,25577,25577.207887,0.207887,0.5,True
